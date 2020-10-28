@@ -1,22 +1,9 @@
 ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)
 
-| AK-47 | AK-47 v2 |
-| :---: | :---: |
-| ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)| ![AK 47](/img/ui_loot_weapon_ar_akilo47_v2.png) |
-| ui_loot_weapon_ar_akilo47 | ui_loot_weapon_ar_akilo47_v2 |
-
-<details>
-<summary>Heading</summary>
-
-+ markdown list 1
-    + nested | AK-47 | AK-47 v2 |
-| :---: | :---: |
-| ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)| ![AK 47](/img/ui_loot_weapon_ar_akilo47_v2.png) |
-| ui_loot_weapon_ar_akilo47 | ui_loot_weapon_ar_akilo47_v2 |
-    + nested list 2
-+ markdown list 2
-
-</details>
+| AK-47 | AK-47 v2 | AK-47 v3 |
+| :---: | :---: | :---: |
+| ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)| ![AK 47](/img/ui_loot_weapon_ar_akilo47_v2.png) | ![AK 47](/img/ui_loot_weapon_ar_akilo47_v3.png) |
+| ui_loot_weapon_ar_akilo47 | ui_loot_weapon_ar_akilo47_v2 | ui_loot_weapon_ar_akilo47_v3 |
 
 
 ## Welcome to GitHub Pages
