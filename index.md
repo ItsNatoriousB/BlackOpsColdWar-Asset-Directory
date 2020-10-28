@@ -4,7 +4,7 @@
 <summary>Heading</summary>
 
 + markdown list 1
-    + nested list 1
+    + nested ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)
     + nested list 2
 + markdown list 2
 
