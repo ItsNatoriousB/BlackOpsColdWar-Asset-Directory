@@ -1,1 +1,1 @@
-# codmw-operator-directory
+# CODMW Operator Directory
