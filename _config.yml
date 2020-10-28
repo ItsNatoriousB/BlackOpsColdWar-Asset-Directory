@@ -1,7 +1,7 @@
 # Defaults
 defaults:
   - scope:
-      path: "/assets/img"
+      path: "/CODMW-Operator-Directory/assets/img"
     values:
       image: true
 
