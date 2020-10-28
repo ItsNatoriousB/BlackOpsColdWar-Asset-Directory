@@ -2,8 +2,8 @@
 
 AK-47 | AK-47 v2
 ------------ | -------------
-![AK 47](/img/ui_loot_weapon_ar_akilo47.png)| Content from cell 2
-Content in the first column | Content in the second column
+![AK 47](/img/ui_loot_weapon_ar_akilo47.png)| ![AK 47](/img/ui_loot_weapon_ar_akilo47_v2.png)
+ui_loot_weapon_ar_akilo47 | ui_loot_weapon_ar_akilo47_v2
 
 <details>
 <summary>Heading</summary>
