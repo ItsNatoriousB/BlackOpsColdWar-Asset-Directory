@@ -1,11 +1,6 @@
 # Defaults
 defaults:
   - scope:
-      path: "/CODMW-Operator-Directory/assets/img"
-    values:
-      image: true
-
-  - scope:
       path: "_posts"
       type: "posts"
       values:
