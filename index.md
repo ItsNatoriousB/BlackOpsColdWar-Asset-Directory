@@ -2,7 +2,6 @@
 
 | AK-47 | AK-47 v2 |
 | :---: | :---: |
-| ------------ | ------------- |
 | ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)| ![AK 47](/img/ui_loot_weapon_ar_akilo47_v2.png) |
 | ui_loot_weapon_ar_akilo47 | ui_loot_weapon_ar_akilo47_v2 |
 
@@ -10,7 +9,10 @@
 <summary>Heading</summary>
 
 + markdown list 1
-    + nested ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)
+    + nested | AK-47 | AK-47 v2 |
+| :---: | :---: |
+| ![AK 47](/img/ui_loot_weapon_ar_akilo47.png)| ![AK 47](/img/ui_loot_weapon_ar_akilo47_v2.png) |
+| ui_loot_weapon_ar_akilo47 | ui_loot_weapon_ar_akilo47_v2 |
     + nested list 2
 + markdown list 2
 
