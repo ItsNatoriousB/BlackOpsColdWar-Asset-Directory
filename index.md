@@ -1,4 +1,15 @@
-![AK-47](/img/ui_loot_weapon_ar_akilo47.png)
+![AK 47](/img/ui_loot_weapon_ar_akilo47.png)
+
+<details>
+<summary>Heading</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
+
 
 ## Welcome to GitHub Pages
 
