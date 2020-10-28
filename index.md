@@ -1,5 +1,4 @@
-layout: page
-title: "PAGE TITLE"
+![Image of Yaktocat](https://itsnatoriousb.github.io/CODMW-Operator-Directory/images/yaktocat.png)
 
 ## Welcome to GitHub Pages
 
