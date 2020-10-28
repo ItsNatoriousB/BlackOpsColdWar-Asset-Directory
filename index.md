@@ -1,3 +1,5 @@
+layout: home
+
 # AK-47 Variants
 
 | AK-47 | AK-47 v2 | AK-47 v3 | AK-47 v4 |
