@@ -1,2 +1,94 @@
-source: /
-theme: jekyll-theme-cayman
+# Site Settings
+name: CODMW Content
+title: COD Content | A site to help locating game assets
+description: A site to help easily browse and locate content for use in their maps/mods
+tags:
+  - black ops 3
+  - call of duty
+  - call of duty mod tools
+  - call of duty modding
+  - call of duty mapping
+email: itsnatoriousb@gmail.com
+disqus_username: natoriousb
+show_hero: true
+menu:
+  - title: Content
+    url: /
+  - title: Submit/Remove Content
+    url: /contact
+  - title: Discord
+    url: https://discord.gg/RyqyThu
+
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: itsnatoriousb
+twitter_username: itsnatoriousb
+
+
+# Posts Settings
+show_time_bar: false
+show_modal_on_exit: false
+show_modal_on_finish_post: false
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "/CODMW-Operator-Directory" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: false
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
