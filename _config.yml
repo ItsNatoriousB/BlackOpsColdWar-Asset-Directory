@@ -5,6 +5,12 @@ defaults:
     values:
       image: true
 
+  - scope:
+      path: "_posts"
+      type: "posts"
+      values:
+        author: "itsnatoriousb"
+        
 # Site Settings
 name: CODMW Content
 title: COD Content | A site to help locating game assets
