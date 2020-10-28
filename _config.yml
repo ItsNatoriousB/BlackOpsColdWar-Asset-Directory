@@ -1,11 +1,17 @@
+# Defaults
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Site Settings
 name: CODMW Content
 title: COD Content | A site to help locating game assets
 description: A site to help easily browse and locate content for use in their maps/mods
 tags:
-  - black ops 3
-  - call of duty
-  - call of duty mod tools
+  - call of duty modern
+  - call of duty modern warfare
   - call of duty modding
   - call of duty mapping
 email: itsnatoriousb@gmail.com
