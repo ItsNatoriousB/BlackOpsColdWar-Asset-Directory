@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/ItsNatoriousB/CODMW-Operator-Directory/blob/gh-pages/img/ui_loot_weapon_ar_akilo47.png)
+![AK-47](https://github.com/ItsNatoriousB/CODMW-Operator-Directory/blob/gh-pages/img/ui_loot_weapon_ar_akilo47.png)
 
 ## Welcome to GitHub Pages
 
