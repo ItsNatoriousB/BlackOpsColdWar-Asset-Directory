@@ -44,9 +44,9 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
+                                        <img src="{{ post.optimized_image }}" width="380px">
                                     {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+                                        <img src="{{ post.image }}" width="380px">
                                     {% else %}
                                         <img src="/CODMW-Operator-Directory/assets/img/off.jpg">
                                     {% endif %}
