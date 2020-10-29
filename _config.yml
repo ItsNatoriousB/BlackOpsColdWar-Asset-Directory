@@ -21,11 +21,8 @@ show_hero: true
 menu:
   - title: Content
     url: /
-  - title: Submit/Remove Content
+  - title: Contact
     url: /contact
-  - title: Discord
-    url: https://discord.gg/RyqyThu
-
 
 # Social Media Settings
 # Remove the item if you don't need it
