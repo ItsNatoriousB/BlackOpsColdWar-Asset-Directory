@@ -2,11 +2,11 @@
 layout: page
 menu: true
 date: '2020-11-08 01:53:59'
-title: Weapons
-permalink: /weapons/
+title: Tutorials
+permalink: /tutorials/
 description: Some description.
 ---
 
-# Weapons
+# Tutorials
 
-Placeholder page for all weapons
+Placeholder page for all tutorials
