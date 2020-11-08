@@ -5,6 +5,10 @@ defaults:
       type: "posts"
       values:
         author: "itsnatoriousb"
+      path: "_pages"
+      type: "pages"
+      values:
+        author: "itsnatoriousb"
         
 # Site Settings
 name: CODMW Content
@@ -39,7 +43,7 @@ two_columns_layout: false
 
 # Advanced Settings
 baseurl: "/CODMW-Operator-Directory" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://itsnatoriousb.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
