@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="post">
+<div class="weapon-page">
 
   <article class="post-content fullwidth">
     <div class="weapon-kit">
@@ -18,7 +18,7 @@ layout: default
 		</div>
 	</div>
 
-</div>{{ content }}
+</div>{{ content }}{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
   </article>
 
 </div>
