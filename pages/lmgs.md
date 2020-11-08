@@ -1,6 +1,6 @@
 ---
 layout: weapon-page
-title: Lightmachine Guns
+title: Lightmachine Gun Variations
 description: LMG Variation Blueprints
 category: lmg
 permalink: /lmgs
