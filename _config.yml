@@ -1,13 +1,20 @@
 # Defaults
 defaults:
-  - scope:
-      path: "_posts"
+  - 
+    scope:
       type: "posts"
-      values:
+      path: "_posts"
+    values:
+        is_post: true
+        layout: posts
         author: "itsnatoriousb"
+  -
+    scope:
+      type: pages
       path: "_pages"
-      type: "pages"
-      values:
+    values:
+        is_post: false
+        layout: default
         author: "itsnatoriousb"
         
 # Site Settings
@@ -23,8 +30,10 @@ email: itsnatoriousb@gmail.com
 disqus_username: natoriousb
 show_hero: true
 menu:
-  - title: Content
+  - title: Home
     url: /
+  - title: About
+    url: /about
   - title: Contact
     url: /contact
 
