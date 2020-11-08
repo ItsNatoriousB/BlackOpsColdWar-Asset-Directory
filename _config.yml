@@ -18,9 +18,9 @@ defaults:
         author: "itsnatoriousb"
         
 # Site Settings
-name: CODMW Content
-title: COD Content | A site to help locating game assets
-description: A site to help easily browse and locate content for use in their maps/mods
+name: CODMW Asset Directory
+title: CODMW Asset Directory | A site to help locating game assets
+description: A site to help easily browse and locate content for usage
 tags:
   - call of duty modern
   - call of duty modern warfare
@@ -36,6 +36,10 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Tutorials
+    url: /tutorials
+  - title: Weapons
+    url: /weapons
 
 # Social Media Settings
 # Remove the item if you don't need it
