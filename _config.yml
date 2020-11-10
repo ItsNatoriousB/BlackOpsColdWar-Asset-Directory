@@ -56,7 +56,7 @@ two_columns_layout: false
 
 # Advanced Settings
 baseurl: "/CODMW-Operator-Directory" # the subpath of your site, e.g. /blog
-url: "https://itsnatoriousb.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -66,7 +66,7 @@ sent_message_url: "/contact/message-sent/"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /:categories/:title
 collections:
   authors:
     output: true
