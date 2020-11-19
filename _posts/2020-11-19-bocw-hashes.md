@@ -35,7 +35,7 @@ type: custom_content
 
 ---
 1. *xmodel_1f11eedc22989c2* - **stamina_up_soda_bottle**  
-2. *xmodel_29aa9781b6e51d6* - **medical_syringe** // *2 bones*  
+2. *xmodel_29aa9781b6e51d6* - **medical_syringe** // 2 bones  
 3. *xmodel_eb13b83cf350a91* - **mtl_c_t9_m1_helmet**  
 4. *xmodel_ee0deae442eee06* - **wpn_t8_knife_combat_blade**  
 1. *xmodel_b7d277484609d2c* - **mtl_wpn_t9_ar_damage_barrel**
@@ -43,11 +43,11 @@ type: custom_content
 1. *xmodel_324f737fb618ccb* - **energy_mine**
 1. *xmodel_fcd6d07442c9ada* - **aether_shroud**
 1. *xmodel_5f9b3ef8bb7330a* - **frost_blast**
-1. *xmodel_dbfe8243991d9e2* - **quick_revive** - 5 bones
+1. *xmodel_dbfe8243991d9e2* - **quick_revive** / 5 bones
 1. *xmodel_6976dd18a2b9195* - **quick_revive**
-1. *xmodel_5995b3cc741a38e* - **elemental_pop** - 5 bones
+1. *xmodel_5995b3cc741a38e* - **elemental_pop** / 5 bones
 1. *xmodel_abaf3b42adf5410* - **elemental_pop**
-1. *xmodel_51de9ecdca91663* - **stamina_up_pop** - 5 bones
+1. *xmodel_51de9ecdca91663* - **stamina_up_pop** / 5 bones
 1. *xmodel_6788cb668a320e8* - **stamina_up_pop**
 1. *xmodel_9da87856180f3ee* - **speed_cola** - 5 bones
 1. *xmodel_580a23e435fe632* - **deadshot_daiquiri** - 5 bones
