@@ -34,7 +34,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/ar/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/ar</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -50,7 +50,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/blog/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/blog</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -98,7 +98,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/lmg/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/lmg</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -114,7 +114,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/marksman-rifle/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/marksman-rifle</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -130,7 +130,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/melee/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/melee</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -178,7 +178,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/shotgun/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/shotgun</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -202,7 +202,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/smg/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/smg</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -218,7 +218,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/sniper/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/sniper</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -250,7 +250,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/tags/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/tags</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -258,7 +258,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/tips/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/tips</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -266,7 +266,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/category/tutorial/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/category/tutorial</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -291,134 +291,22 @@
     
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/ak-47-variants/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/assets/bocw-hashes</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-11-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/weapons/ak-47-variants</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-10-28</lastmod>
         </url>
     
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/welcome-to-the-desert-of-the-real/view-all/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2019-05-16</lastmod>
-        </url>
     
         <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/welcome-to-the-desert-of-the-real/2/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2019-05-16</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/welcome-to-the-desert-of-the-real/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2019-05-16</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/why-books-should-be-your-priority/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-11-22</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/the-quick-brown-fox-jumps-over-a-lazy-dog/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-10-09</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-07-20</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/candy-candies-candy/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-04-21</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/trust-me-it-will-work/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-03-12</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/how-to-turn-your-dog-into-a-jedi-master/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-02-03</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/let-flexbox-work-for-you-or-perish/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2017-08-14</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2017-08-07</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/smoke-alert/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2017-07-29</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/do-you-believe-that-a-spider-can-dance/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2017-06-08</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/a-cook-cries-in-the-rain-at-night/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2017-06-04</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/grab-your-band-and-get-out/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2017-05-11</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/passion-is-dangerous-go-for-it/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2015-09-06</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/birds-can-fly-but-this-you-knew-already/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2010-09-10</lastmod>
-        </url>
-    
-    
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/authors/thiagorossener/</loc>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/authors/thiagorossener</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
