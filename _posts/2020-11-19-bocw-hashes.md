@@ -42,6 +42,11 @@ xmodel_eb13b83cf350a91
 ### wpn_t8_knife_combat_blade
 xmodel_ee0deae442eee06
 
+<details>
+  <summary>healing_aura</summary>
+    <p>xmodel_a1bcd94047f98f1</p>
+</details>
+
 - xmodel_b7d277484609d2c - mtl_wpn_t9_ar_damage_barrel
 - xmodel_a1bcd94047f98f1 - healing_aura
 - xmodel_324f737fb618ccb - energy_mine
