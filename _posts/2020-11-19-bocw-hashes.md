@@ -30,17 +30,10 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-**stamina_up_soda_bottle**
-xmodel_1f11eedc22989c2
-
-**medical_syringe**
-xmodel_29aa9781b6e51d6
-
-**mtl_c_t9_m1_helmet**
-xmodel_eb13b83cf350a91
-
-**wpn_t8_knife_combat_blade**
-xmodel_ee0deae442eee06
+**stamina_up_soda_bottle** - xmodel_1f11eedc22989c2
+**medical_syringe** - xmodel_29aa9781b6e51d6
+**mtl_c_t9_m1_helmet** - xmodel_eb13b83cf350a91
+**wpn_t8_knife_combat_blade** - xmodel_ee0deae442eee06
 
 - xmodel_b7d277484609d2c - mtl_wpn_t9_ar_damage_barrel
 - xmodel_a1bcd94047f98f1 - healing_aura
