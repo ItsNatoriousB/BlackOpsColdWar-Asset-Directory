@@ -1,21 +1,21 @@
 ---
 date: 2020-11-19 12:00:00
 layout: post
-title: AK-47 Variants
-subtitle: "Variants for the AK-47"
+title: BOCW Hashes
+subtitle: "xModel Names"
 description: >-
-  "Variants for the AK-47"
+  "Names to help you locate models"
 image: >-
   https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-featured/v1603912727/ui_loot_weapon_ar_akilo47_a9swsg.png
 optimized_image: >- 
   https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-thumb/v1603912727/ui_loot_weapon_ar_akilo47_a9swsg.png
 featured_image: >-
   https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-featured/v1603912727/ui_loot_weapon_ar_akilo47_a9swsg.png
-category: weapons
+category: assets
 tags:
-  - weapons
-  - variants
-  - models
+  - xmodel
+  - hashes
+  - names
 author: itsnatorioub
 paginate: true
 credits:
