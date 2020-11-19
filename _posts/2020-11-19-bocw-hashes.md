@@ -30,7 +30,8 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-- xmodel_1f11eedc22989c2 - stamina_up_soda_bottle
+## stamina_up_soda_bottle
+- xmodel_1f11eedc22989c2
 - xmodel_29aa9781b6e51d6 - medical_syringe
 - xmodel_eb13b83cf350a91 - mtl_c_t9_m1_helmet
 - xmodel_ee0deae442eee06 - wpn_t8_knife_combat_blade
