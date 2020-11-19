@@ -30,15 +30,15 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
+| **Quick Revive** | **Elemental Pop** | **Stamina Up** | **Speed Cola** | **Deadshot Daiquiri** |
+| :---: | :---: | :---: | :---: | :---: |
+| <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> |
+| *xmodel_dbfe8243991d9e2* | *xmodel_5995b3cc741a38e* | *akilo47_v3* | *akilo47_v4* | *akilo47_v5* |
 | **AK-47** | **Revolution** | **Pink Perforator** | **Steel Curtain** | **Wendingo** |
 | :---: | :---: | :---: | :---: | :---: |
-| <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v2.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v3.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v4.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v5.png"> |
+| <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> |
 | *akilo47* | *akilo47_v2* | *akilo47_v3* | *akilo47_v4* | *akilo47_v5* |
-| **Freedom Fighter** | **RPK** | **Sand Sweeper** | **Duly Devoted** | **Golden Dragon** |
-| :---: | :---: | :---: | :---: | :---: |
-| <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v6.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v7.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v8.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v9.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v10.png"> |
-| *akilo47_v6* | *akilo47_v7* | *akilo47_v8* | *akilo47_v9* | *akilo47_v10* |
 | **Dusk Ripper** | **Black Bear** | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v11.png"> | <img width="125" alt="AK-47" src="/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v12.png"> | <img width="125" alt="Placeholder" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> |
+| <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="Placeholder" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> | <img width="125" alt="AK-47" src="https://via.placeholder.com/125x167"> |
 | *akilo47_v11* | *akilo47_v12* | *akilo47_v13* | *akilo47_v14* | *akilo47_v15* 
