@@ -1,1 +1,1 @@
-# CODMW Operator Directory
+# BOCW Asset Directory
