@@ -34,18 +34,18 @@ green = verified
 <div><h2>Perks</h2></div>
 
 1. xmodel_1f11eedc22989c2,<span style="color:green">**p8_zom_aether_perk_bottle_03**</span>
-1. xmodel_dbfe8243991d9e2,quick_revive
-1. xmodel_6976dd18a2b9195,quick_revive
-1. xmodel_5995b3cc741a38e,<span style="color:green">**p9_sure_elemental_pop**</span>
-1. xmodel_abaf3b42adf5410,<span style="color:green">**p9_sure_elemental_pop**</span>
-1. xmodel_51de9ecdca91663,stamina_up_pop
-1. xmodel_6788cb668a320e8,stamina_up_pop
-1. xmodel_9da87856180f3ee,speed_cola
-1. xmodel_580a23e435fe632,deadshot_daiquiri
-1. xmodel_1e16997c874541f,deadshot_daiquiri
-1. xmodel_ae27f55345dde23,juggernogg
-1. xmodel_8a866dab595a9f6,juggernogg
-1. xmodel_dc8b52a598de649,blank_pop_can
+1. xmodel_dbfe8243991d9e2,<span style="color:green">**p9_sur_quick_revive**</span>
+1. xmodel_6976dd18a2b9195,<span style="color:green">**p9_sur_quick_revive**</span>
+1. xmodel_5995b3cc741a38e,<span style="color:green">**p9_sur_elemental_pop**</span>
+1. xmodel_abaf3b42adf5410,<span style="color:green">**p9_sur_elemental_pop**</span>
+1. xmodel_51de9ecdca91663,<span style="color:green">**p9_sur_staminup**</span>
+1. xmodel_6788cb668a320e8,<span style="color:green">**p9_sur_staminup**</span>
+1. xmodel_9da87856180f3ee,<span style="color:green">**p9_sur_speed_cola**</span>
+1. xmodel_580a23e435fe632,<span style="color:green">**deadshot_daiquiri**</span>
+1. xmodel_1e16997c874541f,<span style="color:green">**deadshot_daiquiri**</span>
+1. xmodel_ae27f55345dde23,<span style="color:green">**p9_sur_juggernogg**</span>
+1. xmodel_8a866dab595a9f6,<span style="color:green">**juggernogg**</span>
+1. xmodel_dc8b52a598de649,<span style="color:green">blank_pop_can**</span>
 1. xmodel_bb0de0ba5c03da7,<span style="color:green">**p9_talent_ninja**</span>
 
 <div><h2>W.A.N.D</h2></div>
@@ -93,16 +93,3 @@ green = verified
 1. xmodel_b4bdf185071f2c8,mtl_wpn_t9_eqp_listening_device
 1. xmodel_336039cd7e006a4,mtl_p9_sur_machine_weapon
 1. xmodel_72f8fab87929c77,mtl_p9_sur_machine_computer
-
-<div><h2>Characters</h2></div>
-
-1. xmodel_2225cf1b174c825,<span style="color:green">**c_t8_zmb_ofc_hero_takeo_head1**</span>
-1. xmodel_e6f07b6fbb84db9,<span style="color:green">**c_t8_takeo_head**</span>
-1. xmodel_d77ec51f28a13e5,<span style="color:green">**c_t8_zmb_ofc_hero_dempsey_head1**</span>
-1. xmodel_6dd36d2eb6ec5d4,<span style="color:green">**c_t8_zmb_mob_hero_dempsey_head1_cst**</span>
-1. xmodel_faaebddfb117e35,<span style="color:green">**c_t8_zmb_ofc_hero_richtofen_head1_cst**</span>
-1. xmodel_a54cf1bcf46f1c5,<span style="color:green">**c_t8_richtofen_01_head_02**</span>
-1. xmodel_4a411d75a206439,<span style="color:green">**c_t8_zmb_mob_hero_richtofen_head1_cst**</span>
-1. xmodel_d63622932bbd656,<span style="color:green">**c_t8_nikolai_head**</span>
-1. xmodel_d26150c2a4b2952,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_head1_cst**</span>
-1. xmodel_a2b252213dd5168,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_viewlegs1_cst**</span>
