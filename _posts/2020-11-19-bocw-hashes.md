@@ -78,7 +78,7 @@ type: custom_content
 1. *xmodel_ee0deae442eee06* - **wpn_t8_knife_combat_blade**
 1. *xmodel_b7d277484609d2c* - **mtl_wpn_t9_ar_damage_barrel**
 1. *xmodel_2a24362c2bc55fa* - **ray_gun** - 13 bones
-1. *xmodel_b43a6a2287aff29* - **ray_gun** - 13 bones
+1. *xmodel_b43a6a2287aff29* - **wpn_t8_zm_raygun_upg_view** - 13 bones
 1. *xmodel_218568b613ec5d2* - **d.i.e_machine** - 25 bones
 
 <div><h2>Misc</h2></div>
@@ -91,9 +91,9 @@ type: custom_content
 
 <div><h2>Characters</h2></div>
 
-1. *xmodel_2225cf1b174c825* - **takeo_head_old** - 15 bones
+1. *xmodel_2225cf1b174c825* - **c_t8_zmb_ofc_hero_takeo_head1** - 15 bones
 1. *xmodel_e6f07b6fbb84db9* - **takeo_head_young** - 15 bones
-1. *xmodel_d77ec51f28a13e5* - **dempsey_head_old** - 15 bones
+1. *xmodel_d77ec51f28a13e5* - **c_t8_zmb_ofc_hero_dempsey_head1** - 15 bones
 1. *xmodel_6dd36d2eb6ec5d4* - **dempsey_head_young** - 15 bones
 1. *xmodel_faaebddfb117e35* - **richtofen_head_old_hat** - 15 bones
 1. *xmodel_a54cf1bcf46f1c5* - **richtofen_head_young** - 23 bones
