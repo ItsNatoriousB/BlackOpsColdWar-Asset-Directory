@@ -4,7 +4,7 @@ layout: post
 title: BOCW Zombie Hashes
 subtitle: "xModel names for zombie assets"
 description: >-
-  "Names to help you locate models"
+  "xModel list for zombie assets"
 image: >-
   https://res.cloudinary.com/natoriousb/image/upload/v1605873548/headers/Zombies_Screenshot_03_llvhdc.jpg
 optimized_image: >- 

@@ -2,9 +2,9 @@
 date: 2020-11-20 12:00:00
 layout: post
 title: BOCW Character Hashes
-subtitle: "xModel names for characters"
+subtitle: "xModel names for characters assets"
 description: >-
-  "Names to help you locate models"
+  "xModel list for character assets"
 image: >-
   https://res.cloudinary.com/natoriousb/image/upload/v1605874498/headers/Multiplayer_Screenshot_03_yyp5ry.jpg
 optimized_image: >- 

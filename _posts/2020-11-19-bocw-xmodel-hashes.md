@@ -2,9 +2,9 @@
 date: 2020-11-19 12:00:00
 layout: post
 title: BOCW Xmodel Hashes
-subtitle: "xModel Names"
+subtitle: "xModel Names for game assets"
 description: >-
-  "Names to help you locate models"
+  "xModel list for game assets"
 image: >-
   https://res.cloudinary.com/natoriousb/image/upload/v1605874656/headers/Campaign_Screenshot_02_eqbsxp.jpg
 optimized_image: >- 
