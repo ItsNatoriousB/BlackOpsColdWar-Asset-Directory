@@ -5,8 +5,8 @@
     <description>A site to help easily browse and locate content for usage</description>
     <link>http://localhost:4000/CODMW-Operator-Directory/</link>
     <atom:link href="http://localhost:4000/CODMW-Operator-Directory/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Nov 2020 20:43:51 -0500</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2020 20:43:51 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2020 20:46:24 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2020 20:46:24 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -30,26 +30,26 @@
         <description>&lt;div&gt;&lt;h2&gt;Animations&lt;/h2&gt;&lt;/div&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;xanim_9b32127e6f358c9&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_ads_base_up&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_df4ed8a66a9cdd0&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_ads_base_down&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_ec396a1853eda5a&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_in&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_af7067588c2ddf3&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_out&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_145b367f2c542d1&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_right&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_145bd67f2c553cf&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_left&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_145c367f2c55e01&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_back&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_145c767f2c564cd&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_forward&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_38ad1525267013d&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_sprint_in&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_39491272f3bd850&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_sprint_loop&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_e053be20f874d26&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_sprint_out&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_3f3a830585c720&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_pullout&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_aac032897df8d40&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_putaway&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_4d6dabe3083d21d&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_fire&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_5fdd079da5db60d&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_melee&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_673930884f8cf10&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_reload&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_6e3fa5a7e6be48e&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_pullout_quick&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_b699140292af65f&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_idle&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_ce1592f2062b73b&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_taunt&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;xanim_f18ad144272a97a&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_first_raise&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_9b32127e6f358c9&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_ads_base_up&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_df4ed8a66a9cdd0&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_ads_base_down&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_ec396a1853eda5a&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_crawl_in&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_af7067588c2ddf3&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_crawl_out&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145b367f2c542d1&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_crawl_right&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145bd67f2c553cf&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_crawl_left&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145c367f2c55e01&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_crawl_back&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145c767f2c564cd&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_crawl_forward&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_38ad1525267013d&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_sprint_in&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_39491272f3bd850&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_sprint_loop&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_e053be20f874d26&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_sprint_out&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_3f3a830585c720&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_pullout&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_aac032897df8d40&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_putaway&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_4d6dabe3083d21d&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_fire&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_5fdd079da5db60d&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_melee&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_673930884f8cf10&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_reload&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_6e3fa5a7e6be48e&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_pullout_quick&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_b699140292af65f&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_idle&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_ce1592f2062b73b&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_taunt&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_f18ad144272a97a&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;vm_ray_gun_t9_first_raise&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 19 Nov 2020 07:00:00 -0500</pubDate>
