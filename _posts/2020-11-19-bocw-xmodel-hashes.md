@@ -36,8 +36,8 @@ green = verified
 1. xmodel_1f11eedc22989c2,<span style="color:green">**p8_zom_aether_perk_bottle_03**</span>
 1. xmodel_dbfe8243991d9e2,quick_revive
 1. xmodel_6976dd18a2b9195,quick_revive
-1. xmodel_5995b3cc741a38e,elemental_pop
-1. xmodel_abaf3b42adf5410,elemental_pop
+1. xmodel_5995b3cc741a38e,<span style="color:green">**p9_sure_elemental_pop**</span>
+1. xmodel_abaf3b42adf5410,<span style="color:green">**p9_sure_elemental_pop**</span>
 1. xmodel_51de9ecdca91663,stamina_up_pop
 1. xmodel_6788cb668a320e8,stamina_up_pop
 1. xmodel_9da87856180f3ee,speed_cola
@@ -104,5 +104,5 @@ green = verified
 1. xmodel_a54cf1bcf46f1c5,<span style="color:green">**c_t8_richtofen_01_head_02**</span>
 1. xmodel_4a411d75a206439,<span style="color:green">**c_t8_zmb_mob_hero_richtofen_head1_cst**</span>
 1. xmodel_d63622932bbd656,<span style="color:green">**c_t8_nikolai_head**</span>
-1. xmodel_d26150c2a4b2952,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_head1_cst</span>
-1. xmodel_a2b252213dd5168,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_viewlegs1_cst</span>
+1. xmodel_d26150c2a4b2952,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_head1_cst**</span>
+1. xmodel_a2b252213dd5168,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_viewlegs1_cst**</span>
