@@ -2,7 +2,7 @@
 date: 2020-11-19 12:00:00
 layout: post
 title: BOCW xAnim Hashes
-subtitle: "xAnim Names"
+subtitle: "Animation Names"
 description: >-
   "Names to help you locate animations"
 image: >-
