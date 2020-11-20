@@ -13,7 +13,7 @@ featured_image: >-
   https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-header/v1605836168/headers/Multiplayer_Screenshot_02_lxdu8x.jpg
 category: assets
 tags:
-  - xmodel
+  - xanim
   - hashes
   - names
 author: itsnatorioub
