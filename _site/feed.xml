@@ -5,8 +5,8 @@
     <description>A site to help easily browse and locate content for usage</description>
     <link>http://localhost:4000/CODMW-Operator-Directory/</link>
     <atom:link href="http://localhost:4000/CODMW-Operator-Directory/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Nov 2020 07:18:16 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2020 07:18:16 -0500</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2020 07:41:05 -0500</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2020 07:41:05 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -222,22 +222,6 @@
         <category>names</category>
         
         <category>assets</category>
-      </item>
-    
-      <item>
-        <title>AK-47 Variants</title>
-        <description>&lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;AK-47&lt;/strong&gt;&lt;/th&gt; &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Revolution&lt;/strong&gt;&lt;/th&gt; &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Pink Perforator&lt;/strong&gt;&lt;/th&gt; &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Steel Curtain&lt;/strong&gt;&lt;/th&gt; &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Wendingo&lt;/strong&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;img width=&quot;125&quot; alt=&quot;AK-47&quot; src=&quot;/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47.png&quot; /&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;img width=&quot;125&quot; alt=&quot;AK-47&quot; src=&quot;/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v2.png&quot; /&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;img width=&quot;125&quot; alt=&quot;AK-47&quot; src=&quot;/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v3.png&quot; /&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;img width=&quot;125&quot; alt=&quot;AK-47&quot; src=&quot;/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v4.png&quot; /&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;img width=&quot;125&quot; alt=&quot;AK-47&quot; src=&quot;/CODMW-Operator-Directory/assets/img/ui_loot_weapon_ar_akilo47_v5.png&quot; /&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;akilo47&lt;/em&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;akilo47_v2&lt;/em&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;akilo47_v3&lt;/em&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;akilo47_v4&lt;/em&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;akilo47_v5&lt;/em&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Freedom Fighter&lt;/strong&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;RPK&lt;/strong&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Sand Sweeper&lt;/strong&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Duly Devoted&lt;/strong&gt;&lt;/td&gt; &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Golden Dragon&lt;/strong&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;tbody&gt;...</description>
-        <pubDate>Wed, 28 Oct 2020 08:00:00 -0400</pubDate>
-        <link>http://localhost:4000/CODMW-Operator-Directory/weapons/ak-47-variants</link>
-        <guid isPermaLink="true">http://localhost:4000/CODMW-Operator-Directory/weapons/ak-47-variants</guid>
-        
-        <category>weapons</category>
-        
-        <category>variants</category>
-        
-        <category>models</category>
-        
-        <category>weapons</category>
       </item>
     
   </channel>

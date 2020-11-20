@@ -326,13 +326,6 @@
             <lastmod>2020-11-19</lastmod>
         </url>
     
-        <url>
-            <loc>http://localhost:4000/CODMW-Operator-Directory/weapons/ak-47-variants</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2020-10-28</lastmod>
-        </url>
-    
     
         <url>
             <loc>http://localhost:4000/CODMW-Operator-Directory/authors/thiagorossener</loc>
