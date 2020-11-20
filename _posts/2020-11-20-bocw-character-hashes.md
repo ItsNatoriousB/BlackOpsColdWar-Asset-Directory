@@ -46,4 +46,6 @@ green = verified
 1. xmodel_d26150c2a4b2952,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_head1_cst**</span>
 1. xmodel_a2b252213dd5168,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_viewlegs1_cst**</span>
 
-[New Issue](https://github.com/ItsNatoriousB/CODMW-Operator-Directory/issues/new/choose){: .btn}
+<a href="/ItsNatoriousB/CODMW-Operator-Directory/issues/new/choose" class="btn btn-primary" role="button">
+  <span class="d-none d-md-block">New Issue</span>
+</a>
