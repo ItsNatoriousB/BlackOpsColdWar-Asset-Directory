@@ -1,7 +1,7 @@
 ---
 date: 2020-11-19 12:00:00
 layout: post
-title: BOCW Hashes
+title: BOCW Xmodel Hashes
 subtitle: "xModel Names"
 description: >-
   "Names to help you locate models"
