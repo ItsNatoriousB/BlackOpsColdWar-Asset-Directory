@@ -8,7 +8,7 @@ description: >-
 image: >-
   https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-header/v1605836168/headers/Multiplayer_Screenshot_02_lxdu8x.jpg
 optimized_image: >- 
-  https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-thumb/v1603912727/ui_loot_weapon_ar_akilo47_a9swsg.png
+  https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-header/v1605836168/headers/Multiplayer_Screenshot_02_lxdu8x.jpg
 featured_image: >-
   https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-header/v1605836168/headers/Multiplayer_Screenshot_02_lxdu8x.jpg
 category: assets
