@@ -3,6 +3,22 @@
   
   
     {
+      "title"    : "BOCW Zombie Hashes",
+      "tags"     : "xmodel, hashes, names, and zombies",
+      "categories" : "assets",
+      "url"      : "/CODMW-Operator-Directory/assets/bocw-zombies-hashes",
+      "date"     : "11/20/2020"
+    } ,
+  
+    {
+      "title"    : "BOCW Character Hashes",
+      "tags"     : "xmodel, hashes, names, and characters",
+      "categories" : "assets",
+      "url"      : "/CODMW-Operator-Directory/assets/bocw-character-hashes",
+      "date"     : "11/20/2020"
+    } ,
+  
+    {
       "title"    : "BOCW Xmodel Hashes",
       "tags"     : "xmodel, hashes, and names",
       "categories" : "assets",

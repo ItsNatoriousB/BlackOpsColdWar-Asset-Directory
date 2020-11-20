@@ -6,11 +6,11 @@ subtitle: "xModel names for characters"
 description: >-
   "Names to help you locate models"
 image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-featured/v1603912727/ui_loot_weapon_ar_akilo47_a9swsg.png
+  https://res.cloudinary.com/natoriousb/image/upload/v1605874498/headers/Multiplayer_Screenshot_03_yyp5ry.jpg
 optimized_image: >- 
-  https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-thumb/v1603912727/ui_loot_weapon_ar_akilo47_a9swsg.png
+  https://res.cloudinary.com/natoriousb/image/upload/v1605874498/headers/Multiplayer_Screenshot_03_yyp5ry.jpg
 featured_image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/t_jekyll-featured/v1603912727/ui_loot_weapon_ar_akilo47_a9swsg.png
+  https://res.cloudinary.com/natoriousb/image/upload/v1605874498/headers/Multiplayer_Screenshot_03_yyp5ry.jpg
 category: assets
 tags:
   - xmodel

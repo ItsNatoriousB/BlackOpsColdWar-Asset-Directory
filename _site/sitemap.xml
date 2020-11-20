@@ -299,6 +299,20 @@
     
     
         <url>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/assets/bocw-zombies-hashes</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-11-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/CODMW-Operator-Directory/assets/bocw-character-hashes</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-11-20</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/CODMW-Operator-Directory/assets/bocw-xmodel-hashes</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
