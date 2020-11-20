@@ -31,7 +31,7 @@ type: custom_content
 ---
 <div><h2>Perks</h2></div>
 
-1. *xmodel_1f11eedc22989c2* - **stamina_up_soda_bottle**
+1. *xmodel_1f11eedc22989c2* - <span style="color:green">**p8_zom_aether_perk_bottle_03**</span>
 1. *xmodel_dbfe8243991d9e2* - **quick_revive** / 5 bones
 1. *xmodel_6976dd18a2b9195* - **quick_revive**
 1. *xmodel_5995b3cc741a38e* - **elemental_pop** / 5 bones
@@ -69,7 +69,7 @@ type: custom_content
 <div><h2>Zombies</h2></div>
 
 1. *xmodel_f0418e3e0178f* - **zombie_head_big_1** - 20 bones
-1. *xmodel_2454e7d13e9e5e1* - **zombie_head_1** - 26 bones
+1. *xmodel_2454e7d13e9e5e1* - <span style="color:green">**c_t8_zmb_mob_hero_zombie_blood_head1**</span>
 1. *xmodel_ac05d15ec4502ea* - **zombie_head_2** - 30 bones
 1. *xmodel_e2d858da7c2fe02* - **hell_hound** - 67
 
@@ -78,7 +78,7 @@ type: custom_content
 1. *xmodel_ee0deae442eee06* - **wpn_t8_knife_combat_blade**
 1. *xmodel_b7d277484609d2c* - **mtl_wpn_t9_ar_damage_barrel**
 1. *xmodel_2a24362c2bc55fa* - **ray_gun** - 13 bones
-1. *xmodel_b43a6a2287aff29* - **wpn_t8_zm_raygun_upg_view** - 13 bones
+1. *xmodel_b43a6a2287aff29* - <span style="color:green">**wpn_t8_zm_raygun_upg_view**</span>
 1. *xmodel_218568b613ec5d2* - **d.i.e_machine** - 25 bones
 
 <div><h2>Misc</h2></div>
@@ -91,12 +91,12 @@ type: custom_content
 
 <div><h2>Characters</h2></div>
 
-1. *xmodel_2225cf1b174c825* - **c_t8_zmb_ofc_hero_takeo_head1** - 15 bones
-1. *xmodel_e6f07b6fbb84db9* - **takeo_head_young** - 15 bones
-1. *xmodel_d77ec51f28a13e5* - **c_t8_zmb_ofc_hero_dempsey_head1** - 15 bones
-1. *xmodel_6dd36d2eb6ec5d4* - **dempsey_head_young** - 15 bones
-1. *xmodel_faaebddfb117e35* - **richtofen_head_old_hat** - 15 bones
-1. *xmodel_a54cf1bcf46f1c5* - **richtofen_head_young** - 23 bones
-1. *xmodel_4a411d75a206439* - **richtofen_head_old** - 23 bones
-1. *xmodel_d63622932bbd656* - **nikolai_head_young** - 23 bones
-1. *xmodel_d26150c2a4b2952* - **nikolai_head_old** - 23 bones
+1. *xmodel_2225cf1b174c825* - <span style="color:green">**c_t8_zmb_ofc_hero_takeo_head1**</span>
+1. *xmodel_e6f07b6fbb84db9* - <span style="color:green">**c_t8_takeo_head**</span>
+1. *xmodel_d77ec51f28a13e5* - <span style="color:green">**c_t8_zmb_ofc_hero_dempsey_head1**</span>
+1. *xmodel_6dd36d2eb6ec5d4* - <span style="color:green">**c_t8_zmb_mob_hero_dempsey_head1_cst**</span>
+1. *xmodel_faaebddfb117e35* - <span style="color:green">**c_t8_zmb_ofc_hero_richtofen_head1_cst**</span>
+1. *xmodel_a54cf1bcf46f1c5* - <span style="color:green">**c_t8_richtofen_01_head_02**</span>
+1. *xmodel_4a411d75a206439* - <span style="color:green">**c_t8_zmb_mob_hero_richtofen_head1_cst**</span>
+1. *xmodel_d63622932bbd656* - <span style="color:green">**c_t8_nikolai_head**</span>
+1. *xmodel_d26150c2a4b2952* - <span style="color:green">**c_t8_zmb_ofc_hero_nikolai_head1_cst**</span>
