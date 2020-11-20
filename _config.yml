@@ -18,12 +18,15 @@ defaults:
         author: "itsnatoriousb"
         
 # Site Settings
-name: CODMW Asset Directory
-title: CODMW Asset Directory | A site to help locating game assets
+name: BOCW Asset Directory
+title: BOCW Asset Directory | A site to help locating game assets
 description: A site to help easily browse and locate content for usage
 tags:
-  - call of duty modern
-  - call of duty modern warfare
+  - black ops
+  - black ops cold war
+  - call of duty black ops
+  - call of duty black ops cold war
+  - call of duty
   - call of duty modding
   - call of duty mapping
 email: itsnatoriousb@gmail.com
@@ -55,7 +58,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/CODMW-Operator-Directory" # the subpath of your site, e.g. /blog
+baseurl: "/bocw-asset-directory" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
