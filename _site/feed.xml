@@ -5,8 +5,8 @@
     <description>A site to help easily browse and locate content for usage</description>
     <link>http://localhost:4000/CODMW-Operator-Directory/</link>
     <atom:link href="http://localhost:4000/CODMW-Operator-Directory/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Nov 2020 20:14:41 -0500</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2020 20:14:41 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2020 20:21:55 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2020 20:21:55 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -26,8 +26,32 @@
       </item>
     
       <item>
-        <title>BOCW Xmodel Hashes</title>
-        <description>&lt;div&gt;&lt;h2&gt;Perks&lt;/h2&gt;&lt;/div&gt; &lt;ol&gt; &lt;li&gt;&lt;em&gt;xmodel_1f11eedc22989c2&lt;/em&gt; - &lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;p8_zom_aether_perk_bottle_03&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_dbfe8243991d9e2&lt;/em&gt; - &lt;strong&gt;quick_revive&lt;/strong&gt; / 5 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_6976dd18a2b9195&lt;/em&gt; - &lt;strong&gt;quick_revive&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_5995b3cc741a38e&lt;/em&gt; - &lt;strong&gt;elemental_pop&lt;/strong&gt; / 5 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_abaf3b42adf5410&lt;/em&gt; - &lt;strong&gt;elemental_pop&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_51de9ecdca91663&lt;/em&gt; - &lt;strong&gt;stamina_up_pop&lt;/strong&gt; / 5 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_6788cb668a320e8&lt;/em&gt; - &lt;strong&gt;stamina_up_pop&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_9da87856180f3ee&lt;/em&gt; - &lt;strong&gt;speed_cola&lt;/strong&gt; - 5 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_580a23e435fe632&lt;/em&gt; - &lt;strong&gt;deadshot_daiquiri&lt;/strong&gt; - 5 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_1e16997c874541f&lt;/em&gt; - &lt;strong&gt;deadshot_daiquiri&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_ae27f55345dde23&lt;/em&gt; - &lt;strong&gt;juggernogg&lt;/strong&gt; - 5 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_8a866dab595a9f6&lt;/em&gt; - &lt;strong&gt;juggernogg&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_dc8b52a598de649&lt;/em&gt; - &lt;strong&gt;blank_pop_can&lt;/strong&gt; - 5 bones&lt;/li&gt; &lt;/ol&gt; &lt;div&gt;&lt;h2&gt;W.A.N.D&lt;/h2&gt;&lt;/div&gt; &lt;ol&gt; &lt;li&gt;&lt;em&gt;xmodel_a1bcd94047f98f1&lt;/em&gt; - &lt;strong&gt;healing_aura&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_324f737fb618ccb&lt;/em&gt; - &lt;strong&gt;energy_mine&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_fcd6d07442c9ada&lt;/em&gt; - &lt;strong&gt;aether_shroud&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_5f9b3ef8bb7330a&lt;/em&gt; - &lt;strong&gt;frost_blast&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_fc7ee5c69212e50&lt;/em&gt; - &lt;strong&gt;mtl_attach_t9_ammo_mod&lt;/strong&gt; - 5 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_e66d1d4410e95ae&lt;/em&gt; - &lt;strong&gt;healing_aura_wand&lt;/strong&gt; - 9 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_9b6d434e5a50230&lt;/em&gt; - &lt;strong&gt;energy_mine_wand&lt;/strong&gt; - 9 bones&lt;/li&gt; &lt;li&gt;&lt;em&gt;xmodel_1cc3ef26e4e67e7&lt;/em&gt; - &lt;strong&gt;aether_shroud_wand&lt;/strong&gt; -...</description>
+        <title>BOCW xAnim Hashes</title>
+        <description>&lt;div&gt;&lt;h2&gt;Animations&lt;/h2&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;xanim_9b32127e6f358c9&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_ads_base_up&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_df4ed8a66a9cdd0&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_ads_base_down&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_ec396a1853eda5a&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_in&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_af7067588c2ddf3&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_out&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145b367f2c542d1&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_right&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145bd67f2c553cf&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_left&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145c367f2c55e01&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_back&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_145c767f2c564cd&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_crawl_forward&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_38ad1525267013d&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_sprint_in&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_39491272f3bd850&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_sprint_loop&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_e053be20f874d26&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_sprint_out&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_3f3a830585c720&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_pullout&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_aac032897df8d40&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_putaway&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_4d6dabe3083d21d&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_fire&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_5fdd079da5db60d&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_melee&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_673930884f8cf10&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_reload&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_6e3fa5a7e6be48e&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_pullout_quick&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_b699140292af65f&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_idle&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_ce1592f2062b73b&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_taunt&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;xanim_f18ad144272a97a&lt;/em&gt; - &amp;lt;span style-“color:green”&amp;gt;&lt;strong&gt;vm_ray_gun_t9_first_raise&lt;/strong&gt;&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
         <pubDate>Thu, 19 Nov 2020 07:00:00 -0500</pubDate>
         <link>http://localhost:4000/CODMW-Operator-Directory/assets/bocw-xanim-hashes</link>
         <guid isPermaLink="true">http://localhost:4000/CODMW-Operator-Directory/assets/bocw-xanim-hashes</guid>
