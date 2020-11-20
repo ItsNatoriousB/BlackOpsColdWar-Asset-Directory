@@ -46,7 +46,7 @@ green = verified
 1. xmodel_ae27f55345dde23,juggernogg
 1. xmodel_8a866dab595a9f6,juggernogg
 1. xmodel_dc8b52a598de649,blank_pop_can
-1. xmodel_bb0de0ba5c03da7,<span style="color:green">p9_talent_ninja</span>
+1. xmodel_bb0de0ba5c03da7,<span style="color:green">**p9_talent_ninja**</span>
 
 <div><h2>W.A.N.D</h2></div>
 
@@ -54,7 +54,7 @@ green = verified
 1. xmodel_324f737fb618ccb,energy_mine
 1. xmodel_fcd6d07442c9ada,aether_shroud
 1. xmodel_5f9b3ef8bb7330a,frost_blast
-1. xmodel_fc7ee5c69212e50,<span style="color:green">mtl_attach_t9_ammo_mod</span>
+1. xmodel_fc7ee5c69212e50,<span style="color:green">**mtl_attach_t9_ammo_mod**</span>
 1. xmodel_e66d1d4410e95ae,healing_aura_wand
 1. xmodel_9b6d434e5a50230,energy_mine_wand
 1. xmodel_1cc3ef26e4e67e7,aether_shroud_wand
@@ -72,7 +72,7 @@ green = verified
 <div><h2>Zombies</h2></div>
 
 1. xmodel_f0418e3e0178f,zombie_head_big_1
-1. xmodel_2454e7d13e9e5e1,<span style="color:green">c_t8_zmb_mob_hero_zombie_blood_head1</span>
+1. xmodel_2454e7d13e9e5e1,<span style="color:green">**c_t8_zmb_mob_hero_zombie_blood_head1**</span>
 1. xmodel_ac05d15ec4502ea,zombie_head_2
 1. xmodel_e2d858da7c2fe02,hell_hound
 
@@ -81,10 +81,10 @@ green = verified
 1. xmodel_ee0deae442eee06,wpn_t8_knife_combat_blade
 1. xmodel_b7d277484609d2c,<span style="color:green">**mtl_wpn_t9_ar_damage_barrel**</span>
 1. xmodel_2a24362c2bc55fa,ray_gun - 13 bones
-1. xmodel_b43a6a2287aff29,<span style="color:green">wpn_t8_zm_raygun_upg_view</span>
+1. xmodel_b43a6a2287aff29,<span style="color:green">**wpn_t8_zm_raygun_upg_view**</span>
 1. xmodel_218568b613ec5d2,die_machine
-1. xmodel_40b142b4f38f9d2,<span style="color:green">wpn_t9_eqp_grenade_frag</span>
-1. xmodel_9935705bdae408c,<span style="color:green">wpn_t9_eqp_grenade_decoy</span>
+1. xmodel_40b142b4f38f9d2,<span style="color:green">**wpn_t9_eqp_grenade_frag**</span>
+1. xmodel_9935705bdae408c,<span style="color:green">**wpn_t9_eqp_grenade_decoy**</span>
 
 <div><h2>Misc</h2></div>
 
@@ -96,13 +96,13 @@ green = verified
 
 <div><h2>Characters</h2></div>
 
-1. xmodel_2225cf1b174c825,<span style="color:green">c_t8_zmb_ofc_hero_takeo_head1</span>
-1. xmodel_e6f07b6fbb84db9,<span style="color:green">c_t8_takeo_head</span>
-1. xmodel_d77ec51f28a13e5,<span style="color:green">c_t8_zmb_ofc_hero_dempsey_head1</span>
-1. xmodel_6dd36d2eb6ec5d4,<span style="color:green">c_t8_zmb_mob_hero_dempsey_head1_cst</span>
-1. xmodel_faaebddfb117e35,<span style="color:green">c_t8_zmb_ofc_hero_richtofen_head1_cst</span>
-1. xmodel_a54cf1bcf46f1c5,<span style="color:green">c_t8_richtofen_01_head_02</span>
-1. xmodel_4a411d75a206439,<span style="color:green">c_t8_zmb_mob_hero_richtofen_head1_cst</span>
-1. xmodel_d63622932bbd656,<span style="color:green">c_t8_nikolai_head</span>
-1. xmodel_d26150c2a4b2952,<span style="color:green">c_t8_zmb_ofc_hero_nikolai_head1_cst</span>
-1. xmodel_a2b252213dd5168,<span style="color:green">c_t8_zmb_ofc_hero_nikolai_viewlegs1_cst</span>
+1. xmodel_2225cf1b174c825,<span style="color:green">**c_t8_zmb_ofc_hero_takeo_head1**</span>
+1. xmodel_e6f07b6fbb84db9,<span style="color:green">**c_t8_takeo_head**</span>
+1. xmodel_d77ec51f28a13e5,<span style="color:green">**c_t8_zmb_ofc_hero_dempsey_head1**</span>
+1. xmodel_6dd36d2eb6ec5d4,<span style="color:green">**c_t8_zmb_mob_hero_dempsey_head1_cst**</span>
+1. xmodel_faaebddfb117e35,<span style="color:green">**c_t8_zmb_ofc_hero_richtofen_head1_cst**</span>
+1. xmodel_a54cf1bcf46f1c5,<span style="color:green">**c_t8_richtofen_01_head_02**</span>
+1. xmodel_4a411d75a206439,<span style="color:green">**c_t8_zmb_mob_hero_richtofen_head1_cst**</span>
+1. xmodel_d63622932bbd656,<span style="color:green">**c_t8_nikolai_head**</span>
+1. xmodel_d26150c2a4b2952,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_head1_cst</span>
+1. xmodel_a2b252213dd5168,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_viewlegs1_cst</span>
