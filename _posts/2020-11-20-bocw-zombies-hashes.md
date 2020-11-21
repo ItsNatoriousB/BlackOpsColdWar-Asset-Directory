@@ -40,11 +40,11 @@ green = verified
 1. xmodel_6976dd18a2b9195,<span style="color:green">**wpn_t9_zm_perk_can_quick_revive**</span>
 1. xmodel_5995b3cc741a38e,<span style="color:green">**wpn_t9_zm_perk_can_elemental**</span>
 1. xmodel_abaf3b42adf5410,<span style="color:green">**wpn_t9_zm_perk_can_elemental**</span>
-1. xmodel_51de9ecdca91663,<span style="color:green">**wpn_t9_zm_perk_can_staminup**</span>
-1. xmodel_6788cb668a320e8,<span style="color:green">**wpn_t9_zm_perk_can_staminup**</span>
+1. xmodel_51de9ecdca91663,<span style="color:red">**wpn_t9_zm_perk_can_staminup**</span>
+1. xmodel_6788cb668a320e8,<span style="color:red">**wpn_t9_zm_perk_can_staminup**</span>
 1. xmodel_9da87856180f3ee,<span style="color:green">**wpn_t9_zm_perk_can_speed_cola**</span>
-1. xmodel_580a23e435fe632,<span style="color:green">**wpn_t9_zm_perk_can_deadshot**</span>
-1. xmodel_1e16997c874541f,<span style="color:green">**wpn_t9_zm_perk_can_deadshot**</span>
+1. xmodel_580a23e435fe632,<span style="color:red">**wpn_t9_zm_perk_can_deadshot**</span>
+1. xmodel_1e16997c874541f,<span style="color:red">**wpn_t9_zm_perk_can_deadshot**</span>
 1. xmodel_ae27f55345dde23,<span style="color:green">**wpn_t9_zm_perk_can_juggernogg**</span>
 1. xmodel_8a866dab595a9f6,<span style="color:green">**wpn_t9_zm_perk_can_juggernogg**</span>
 1. xmodel_dc8b52a598de649,<span style="color:green">**blank_pop_can**</span>
@@ -79,29 +79,13 @@ green = verified
 
 <div><h2>Zombies</h2></div>
 
-1. xmodel_f0418e3e0178f,zombie_head_big_1
-1. xmodel_2454e7d13e9e5e1,<span style="color:green">**c_t8_zmb_mob_hero_zombie_blood_head1**</span>
 1. xmodel_ac05d15ec4502ea,zombie_head_2
-1. xmodel_e2d858da7c2fe02,hell_hound
 
 <div><h2>Weapons</h2></div>
 
-1. xmodel_2a24362c2bc55fa,ray_gun
-1. xmodel_b43a6a2287aff29,<span style="color:green">**wpn_t8_zm_raygun_upg_view**</span>
-1. xmodel_218568b613ec5d2,wpn_t9_zm_die_machine
-1. xmodel_9dc5b7b3e56a74e,die_fire
-1. xmodel_48d579d8460a37b,die_fire
-1. xmodel_a6d2f6f49885950,die_frost
-1. xmodel_8549981528a582d,die_frost
-1. xmodel_5d816e81ae7ddbb,die_elec
-1. xmodel_8c14e230ba9d080,die_elec
-1. xmodel_9549d4549a59df5,die_unknown
-1. xmodel_afab590c6a9abc2,die_unknown
-1. xmodel_a78ff7b18517c52,die_acid
-1. xmodel_1dd6868d4c338bf,die_acid
 1. xmodel_40b142b4f38f9d2,<span style="color:green">**wpn_t9_eqp_grenade_frag**</span>
 1. xmodel_9935705bdae408c,<span style="color:green">**wpn_t9_eqp_grenade_decoy**</span>
-1. xmodel_b7651862dac0639,monkey_bombs
+1. xmodel_1dd6868d4c338bf,</span style="color:green">**attach_t9_zm_silver_ww_mag_05_view**</span>
 
 <div><h2>Misc</h2></div>
 

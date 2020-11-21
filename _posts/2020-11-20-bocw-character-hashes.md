@@ -35,16 +35,13 @@ green = verified
 
 <div><h2>Characters</h2></div>
 
-1. xmodel_2225cf1b174c825,<span style="color:green">**c_t8_zmb_ofc_hero_takeo_head1**</span>
-1. xmodel_e6f07b6fbb84db9,<span style="color:green">**c_t8_takeo_head**</span>
-1. xmodel_d77ec51f28a13e5,<span style="color:green">**c_t8_zmb_ofc_hero_dempsey_head1**</span>
-1. xmodel_6dd36d2eb6ec5d4,<span style="color:green">**c_t8_zmb_mob_hero_dempsey_head1_cst**</span>
-1. xmodel_faaebddfb117e35,<span style="color:green">**c_t8_zmb_ofc_hero_richtofen_head1_cst**</span>
-1. xmodel_a54cf1bcf46f1c5,<span style="color:green">**c_t8_richtofen_01_head_02**</span>
-1. xmodel_4a411d75a206439,<span style="color:green">**c_t8_zmb_mob_hero_richtofen_head1_cst**</span>
-1. xmodel_d63622932bbd656,<span style="color:green">**c_t8_nikolai_head**</span>
-1. xmodel_d26150c2a4b2952,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_head1_cst**</span>
-1. xmodel_a2b252213dd5168,<span style="color:green">**c_t8_zmb_ofc_hero_nikolai_viewlegs1_cst**</span>
+1. xmodel_5977a9435063757,c_t8_zmb_mob_hero_richtofen_torso1_cst
+1. xmodel_2876de5f4d2a4e0,c_t8_zmb_mob_hero_richtofen_lowerbody2
+1. xmodel_ee255b7aead7504,
+1. xmodel_fd4565398a78c01,c_t8_zmb_mob_hero_richtofen_lowerbody1_cst
+1. xmodel_8f0588b2803dde5,c_t8_zmb_ofc_hero_richtofen_lowerbody1_cst
+1. xmodel_7194ed19557fcba,c_t8_zmb_mob_hero_dempsey_lowerbody1_cst
+1. xmodel_187a5d4d315bdf8,c_t8_zmb_mob_hero_nikolai_lowerbody1_cst
 
 <a href="/ItsNatoriousB/CODMW-Operator-Directory/issues/new/choose" class="btn btn-primary" role="button">
   <span class="d-none d-md-block">New Issue</span>
