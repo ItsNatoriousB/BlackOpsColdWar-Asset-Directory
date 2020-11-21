@@ -36,17 +36,17 @@ green = verified
 <div><h2>Perks</h2></div>
 
 1. xmodel_1f11eedc22989c2,<span style="color:green">**p8_zom_aether_perk_bottle_03**</span>
-1. xmodel_dbfe8243991d9e2,<span style="color:green">**wpn_t9_zm_perk_quick_revive_can**</span>
-1. xmodel_6976dd18a2b9195,<span style="color:green">**wpn_t9_zm_perk_quick_revive_can**</span>
-1. xmodel_5995b3cc741a38e,<span style="color:green">**wpn_t9_zm_perk_elemental_can**</span>
-1. xmodel_abaf3b42adf5410,<span style="color:green">**wpn_t9_zm_perk_elemental_can**</span>
-1. xmodel_51de9ecdca91663,<span style="color:green">**wpn_t9_zm_perk_staminup_can**</span>
-1. xmodel_6788cb668a320e8,<span style="color:green">**wpn_t9_zm_perk_staminup_can**</span>
-1. xmodel_9da87856180f3ee,<span style="color:green">**wpn_t9_zm_perk_speed_cola_can**</span>
-1. xmodel_580a23e435fe632,<span style="color:green">**wpn_t9_zm_perk_deadshot_can**</span>
-1. xmodel_1e16997c874541f,<span style="color:green">**wpn_t9_zm_perk_deadshot_can**</span>
-1. xmodel_ae27f55345dde23,<span style="color:green">**wpn_t9_zm_perk_juggernogg_can**</span>
-1. xmodel_8a866dab595a9f6,<span style="color:green">**wpn_t9_zm_perk_juggernogg_can**</span>
+1. xmodel_dbfe8243991d9e2,<span style="color:green">**wpn_t9_zm_perk_can_quick_revive**</span>
+1. xmodel_6976dd18a2b9195,<span style="color:green">**wpn_t9_zm_perk_can_quick_revive**</span>
+1. xmodel_5995b3cc741a38e,<span style="color:green">**wpn_t9_zm_perk_can_elemental**</span>
+1. xmodel_abaf3b42adf5410,<span style="color:green">**wpn_t9_zm_perk_can_elemental**</span>
+1. xmodel_51de9ecdca91663,<span style="color:green">**wpn_t9_zm_perk_can_staminup**</span>
+1. xmodel_6788cb668a320e8,<span style="color:green">**wpn_t9_zm_perk_can_staminup**</span>
+1. xmodel_9da87856180f3ee,<span style="color:green">**wpn_t9_zm_perk_can_speed_cola**</span>
+1. xmodel_580a23e435fe632,<span style="color:green">**wpn_t9_zm_perk_can_deadshot**</span>
+1. xmodel_1e16997c874541f,<span style="color:green">**wpn_t9_zm_perk_can_deadshot**</span>
+1. xmodel_ae27f55345dde23,<span style="color:green">**wpn_t9_zm_perk_can_juggernogg**</span>
+1. xmodel_8a866dab595a9f6,<span style="color:green">**wpn_t9_zm_perk_can_juggernogg**</span>
 1. xmodel_dc8b52a598de649,<span style="color:green">**blank_pop_can**</span>
 
 <div><h2>Field Upgrades</h2></div>
