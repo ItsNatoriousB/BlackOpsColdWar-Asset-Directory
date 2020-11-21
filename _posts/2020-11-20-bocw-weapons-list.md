@@ -1,5 +1,5 @@
 ---
-date: 2020-11-20 09:00:00
+date: 2020-11-20 21:00:00
 layout: post
 title: BOCW Weapons
 subtitle: "Names for wapons"
