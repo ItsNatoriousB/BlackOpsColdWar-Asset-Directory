@@ -56,9 +56,9 @@ green = verified
 1. xmodel_fcd6d07442c9ada,<span style="color:green">**wpn_t9_zm_wand_cannister_aether_shroud**</span>
 1. xmodel_5f9b3ef8bb7330a,<span style="color:green">**wpn_t9_zm_wand_cannister_frost_blast**</span>
 1. xmodel_fc7ee5c69212e50,**attach_t9_ammo_mod_missing_view**
-1. xmodel_5c8d8d59a771d41,**mtl_attach_t9_ammo_mod_missing_view**
-1. xmodel_95ac0dbf9487d6a,**mtl_attach_t9_ammo_mod_missing_view**
-1. xmodel_96f6395f5856ff1,**mtl_attach_t9_ammo_mod_missing_view**
+1. xmodel_5c8d8d59a771d41,**attach_t9_ammo_mod_missing_view**
+1. xmodel_95ac0dbf9487d6a,**attach_t9_ammo_mod_missing_view**
+1. xmodel_96f6395f5856ff1,**attach_t9_ammo_mod_missing_view**
 1. xmodel_e66d1d4410e95ae,<span style="color:green">**wpn_t9_zm_wand_healing_aura_view**</span>
 1. xmodel_9b6d434e5a50230,<span style="color:green">**wpn_t9_zm_wand_energy_mine_view**</span>
 1. xmodel_1cc3ef26e4e67e7,<span style="color:green">**wpn_t9_zm_wand_aether_shroud_view**</span>
@@ -86,12 +86,9 @@ green = verified
 
 <div><h2>Weapons</h2></div>
 
-1. xmodel_2a24362c2bc55fa,ray_gun - 13 bones
+1. xmodel_2a24362c2bc55fa,ray_gun
 1. xmodel_b43a6a2287aff29,<span style="color:green">**wpn_t8_zm_raygun_upg_view**</span>
-1. xmodel_218568b613ec5d2,die_machine
-1. xmodel_40b142b4f38f9d2,<span style="color:green">**wpn_t9_eqp_grenade_frag**</span>
-1. xmodel_9935705bdae408c,<span style="color:green">**wpn_t9_eqp_grenade_decoy**</span>
-1. xmodel_b7651862dac0639,monkey_bombs
+1. xmodel_218568b613ec5d2,wpn_t9_zm_die_machine
 1. xmodel_9dc5b7b3e56a74e,die_fire
 1. xmodel_48d579d8460a37b,die_fire
 1. xmodel_a6d2f6f49885950,die_frost
@@ -102,10 +99,13 @@ green = verified
 1. xmodel_afab590c6a9abc2,die_unknown
 1. xmodel_a78ff7b18517c52,die_acid
 1. xmodel_1dd6868d4c338bf,die_acid
+1. xmodel_40b142b4f38f9d2,<span style="color:green">**wpn_t9_eqp_grenade_frag**</span>
+1. xmodel_9935705bdae408c,<span style="color:green">**wpn_t9_eqp_grenade_decoy**</span>
+1. xmodel_b7651862dac0639,monkey_bombs
 
 <div><h2>Misc</h2></div>
 
-1. xmodel_336039cd7e006a4,mtl_p9_sur_machine_weapon
-1. xmodel_72f8fab87929c77,mtl_p9_sur_machine_computer
+1. xmodel_336039cd7e006a4,p9_sur_machine_weapon
+1. xmodel_72f8fab87929c77,p9_sur_machine_computer
 1. xmodel_87e052e2e4ce266,mystery_box
 1. xmodel_185f14539e60021,zombie_hat

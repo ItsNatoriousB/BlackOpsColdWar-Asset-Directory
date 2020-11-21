@@ -38,12 +38,12 @@ green = verified
 <div><h2>Weapons</h2></div>
 
 1. xmodel_ee0deae442eee06,wpn_t8_knife_combat_blade
-1. xmodel_b7d277484609d2c,<span style="color:green">**mtl_wpn_t9_ar_damage_barrel**</span>
+1. xmodel_b7d277484609d2c,<span style="color:green">**wpn_t9_ar_damage_barrel**</span>
 1. xmodel_40b142b4f38f9d2,<span style="color:green">**wpn_t9_eqp_grenade_frag**</span>
 1. xmodel_9935705bdae408c,<span style="color:green">**wpn_t9_eqp_grenade_decoy**</span>
 
 <div><h2>Misc</h2></div>
 
 1. xmodel_29aa9781b6e51d6,medical_syringe 
-1. xmodel_eb13b83cf350a91,mtl_c_t9_m1_helmet
-1. xmodel_b4bdf185071f2c8,mtl_wpn_t9_eqp_listening_device
+1. xmodel_eb13b83cf350a91,<span style="color:green">**c_t9_m1_helmet**</span>
+1. xmodel_b4bdf185071f2c8,<span style="color:green">**wpn_t9_eqp_listening_device**</span>
