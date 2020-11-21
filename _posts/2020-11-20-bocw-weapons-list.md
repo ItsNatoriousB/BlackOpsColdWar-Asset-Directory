@@ -1,6 +1,7 @@
 ---
 date: 2020-11-20 21:00:00
 layout: post
+datatable: true
 title: BOCW Weapons
 subtitle: "Names for wapons"
 description: >-
@@ -30,19 +31,53 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-<div><h2>Sniper Rifles</h2></div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<th style="width: 99.9034%; text-align: center;" colspan="2">Sniper Rifles</th>
+</tr>
+<tr>
+<td style="text-align: center; width: 49.0821%;">&nbsp;Pelington</td>
+<td style="width: 50.8213%; text-align: center;">&nbsp;**sniper_quickscope**</td>
+</tr>
+<tr>
+<td style="width: 49.0821%;">&nbsp;M82</td>
+<td style="width: 50.8213%;">&nbsp;**sniper_powersemi**</td>
+</tr>
+<tr>
+<td style="width: 49.0821%;">&nbsp;LW3 Tundra</td>
+<td style="width: 50.8213%;">&nbsp;**sniper_standard**</td>
+</tr>
+</tbody>
+</table>
 
-1. Pelington - **sniper_quickscope**
-1. M82 - **sniper_powersemi**
-1. LW3 Tundra - **sniper_standard**
+<div class="datatable-begin"></div>
 
-<div><h2>Assault rifles</h2></div>
+Name        | Asset Name                            | Category        |
+------------|---------------------------------------|-----------------|
+Pellington  | **sniper_quickscope**                 | Sniper Rifle    |
+M82         | **sniper_powersemi**                  | Sniper Rifle    |
+LW3 Tundra  | **sniper_standard**                   | Sniper Rifle    |
+XM4         | **ar_mercenary**                      | Assault Rifle   |
+AK-47       | **ar_confront**                       | Assault Rifle   |
+QBZ-83      | **ar_Mobility**                       | Assault Rifle   |
+FFAR 1      | **ar_fastfire**                       | Assault Rifle   |
+Krig 6      | **ar_krig6**                          | Assault Rifle   |
+LW3 Tundra  | **sniper_standard**                   | Assault Rifle   |
+LW3 Tundra  | **sniper_standard**                   | Assault Rifle   |
 
-1. XM4 - **ar_mercenary**
-1. AK-47 - **ar_confront**
-1. QBZ-83 - **ar_Mobility**
-1. FFAR 1 - **ar_fastfire**
-1. Krig 6 - **ar_krig6**
+<div class="datatable-end"></div>
+
+<div class="datatable-begin"></div>
+
+Food    | Description                           | Category | Sample type
+------- | ------------------------------------- | -------- | -----------
+Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
+Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+
+<div class="datatable-end"></div>
 
 <div><h2>SMGS</h2></div>
 
@@ -62,7 +97,7 @@ type: custom_content
 <div><h2>LMGS</h2></div> 
 
 1. M60 - **lmg_slowfire**
-1. RPD - **lmg_light
+1. RPD - **lmg_light**
 1. Stoner 63 - **lmg_accurate**
 
 <div><h2>Pistols</h2></div>
@@ -86,5 +121,5 @@ type: custom_content
 
 <div><h2>Shotguns</h2></div>
 
-Hauer 77 - **shotgun_pump**
-Gallo SA12 - **shotgun_semiauto**
+1. Hauer 77 - **shotgun_pump**
+1. Gallo SA12 - **shotgun_semiauto**

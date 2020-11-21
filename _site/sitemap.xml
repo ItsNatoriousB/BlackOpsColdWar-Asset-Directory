@@ -299,6 +299,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/bocw-asset-directory/assets/bocw-weapons-list</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-11-20</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/bocw-asset-directory/assets/bocw-zombies-hashes</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

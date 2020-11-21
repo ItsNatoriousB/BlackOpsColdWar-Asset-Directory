@@ -3,6 +3,14 @@
   
   
     {
+      "title"    : "BOCW Weapons",
+      "tags"     : "weapons, hashes, and names",
+      "categories" : "assets",
+      "url"      : "/bocw-asset-directory/assets/bocw-weapons-list",
+      "date"     : "11/20/2020"
+    } ,
+  
+    {
       "title"    : "BOCW Zombie Hashes",
       "tags"     : "xmodel, hashes, names, and zombies",
       "categories" : "assets",
