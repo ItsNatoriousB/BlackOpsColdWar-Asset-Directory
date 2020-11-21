@@ -77,19 +77,8 @@ green = verified
 1. xmodel_1c57957830a468b,<span style="color:green">**wpn_t9_zm_wand_cannister_aether_shroud_view**</span>
 1. xmodel_635e6bb68e8f84e,<span style="color:green">**wpn_t9_zm_wand_cannister_healing_aura_view**</span>
 
-<div><h2>Zombies</h2></div>
-
-1. xmodel_ac05d15ec4502ea,zombie_head_2
-
 <div><h2>Weapons</h2></div>
 
 1. xmodel_40b142b4f38f9d2,<span style="color:green">**wpn_t9_eqp_grenade_frag**</span>
 1. xmodel_9935705bdae408c,<span style="color:green">**wpn_t9_eqp_grenade_decoy**</span>
-1. xmodel_1dd6868d4c338bf,</span style="color:green">**attach_t9_zm_silver_ww_mag_05_view**</span>
-
-<div><h2>Misc</h2></div>
-
-1. xmodel_336039cd7e006a4,p9_sur_machine_weapon
-1. xmodel_72f8fab87929c77,p9_sur_machine_computer
-1. xmodel_87e052e2e4ce266,mystery_box
-1. xmodel_185f14539e60021,zombie_hat
+1. xmodel_1dd6868d4c338bf,<span style="color:green">**attach_t9_zm_silver_ww_mag_05_view**</span>
