@@ -1,16 +1,16 @@
 ---
-date: 2020-11-19 12:00:00
+date: 2020-11-20 09:00:00
 layout: post
 title: BOCW Weapons
 subtitle: "Names for wapons"
 description: >-
   "A list for gun names"
 image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/v1605874656/headers/Campaign_Screenshot_02_eqbsxp.jpg
+  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
 optimized_image: >- 
-  https://res.cloudinary.com/natoriousb/image/upload/v1605874656/headers/Campaign_Screenshot_02_eqbsxp.jpg
+  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
 featured_image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/v1605874656/headers/Campaign_Screenshot_02_eqbsxp.jpg
+  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
 category: assets
 tags:
   - weapons
