@@ -1,6 +1,6 @@
 ---
 date: 2020-11-20 21:00:00
-layout: post
+layout: weapon-post
 datatable: true
 title: BOCW Weapons
 subtitle: "Names for wapons"
@@ -31,26 +31,6 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-<table style="width: 100%;">
-<tbody>
-<tr>
-<th style="width: 99.9034%; text-align: center;" colspan="2">Sniper Rifles</th>
-</tr>
-<tr>
-<td style="text-align: center; width: 49.0821%;">&nbsp;Pelington</td>
-<td style="width: 50.8213%; text-align: center;">&nbsp;**sniper_quickscope**</td>
-</tr>
-<tr>
-<td style="width: 49.0821%;">&nbsp;M82</td>
-<td style="width: 50.8213%;">&nbsp;**sniper_powersemi**</td>
-</tr>
-<tr>
-<td style="width: 49.0821%;">&nbsp;LW3 Tundra</td>
-<td style="width: 50.8213%;">&nbsp;**sniper_standard**</td>
-</tr>
-</tbody>
-</table>
-
 <div class="datatable-begin"></div>
 
 Name        | Asset Name                            | Category        |
@@ -65,17 +45,6 @@ FFAR 1      | **ar_fastfire**                       | Assault Rifle   |
 Krig 6      | **ar_krig6**                          | Assault Rifle   |
 LW3 Tundra  | **sniper_standard**                   | Assault Rifle   |
 LW3 Tundra  | **sniper_standard**                   | Assault Rifle   |
-
-<div class="datatable-end"></div>
-
-<div class="datatable-begin"></div>
-
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
 <div class="datatable-end"></div>
 
