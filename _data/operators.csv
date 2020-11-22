@@ -1,12 +1,12 @@
 Operator,Asset Name,Faction
-Adler,c_t9_usa_pl_adler_infiltration_head,NATO
-Adler,c_t9_usa_pl_adler_detective_head,NATO
-Garcia,c_t9_cub_pl_dgi_infiltration_head,DGI
-Portnova,c_t9_rus_pl_kgb_infiltration_head,KGB
-Park,c_t9_uk_pl_mi6_infiltration_head,MI6
-Sims,c_t9_usa_pl_cia_infiltration_head,CIA
-Baker,c_t9_usa_pl_navyseal_infiltration_head,Navy Seal
-Baker,c_t9_usa_pl_navyseal_land_head,Navy Seal
-Baker,c_t9_usa_pl_navyseal_sea_head,Navy Seal
-Baker,c_t9_usa_pl_navyseal_slugger_head,Navy Seal
-Woods,c_t9_usa_pl_woods_infiltration_head,Navy Seal
+Adler,usa_pl_adler_infiltration_head,NATO
+Adler,usa_pl_adler_detective_head,NATO
+Garcia,cub_pl_dgi_infiltration_head,DGI
+Portnova,rus_pl_kgb_infiltration_head,KGB
+Park,uk_pl_mi6_infiltration_head,MI6
+Sims,usa_pl_cia_infiltration_head,CIA
+Baker,usa_pl_navyseal_infiltration_head,Navy Seal
+Baker,usa_pl_navyseal_land_head,Navy Seal
+Baker,usa_pl_navyseal_sea_head,Navy Seal
+Baker,usa_pl_navyseal_slugger_head,Navy Seal
+Woods,usa_pl_woods_infiltration_head,Navy Seal
