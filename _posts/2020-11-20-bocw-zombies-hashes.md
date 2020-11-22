@@ -31,54 +31,20 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-green = verified
+<div class="datatable-begin"></div>
+<table class="weapons-table row-border stripe">
+  {% for row in site.data.zombie-hashes %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {%- endfor -%}
+    </tr>
+    {% endif %}
 
-<div><h2>Perks</h2></div>
-
-1. xmodel_1f11eedc22989c2,<span style="color:green">**p8_zom_aether_perk_bottle_03**</span>
-1. xmodel_dbfe8243991d9e2,<span style="color:green">**wpn_t9_zm_perk_can_quick_revive**</span>
-1. xmodel_6976dd18a2b9195,<span style="color:green">**wpn_t9_zm_perk_can_quick_revive**</span>
-1. xmodel_5995b3cc741a38e,<span style="color:green">**wpn_t9_zm_perk_can_elemental**</span>
-1. xmodel_abaf3b42adf5410,<span style="color:green">**wpn_t9_zm_perk_can_elemental**</span>
-1. xmodel_51de9ecdca91663,<span style="color:red">**wpn_t9_zm_perk_can_staminup**</span>
-1. xmodel_6788cb668a320e8,<span style="color:red">**wpn_t9_zm_perk_can_staminup**</span>
-1. xmodel_9da87856180f3ee,<span style="color:green">**wpn_t9_zm_perk_can_speed_cola**</span>
-1. xmodel_580a23e435fe632,<span style="color:red">**wpn_t9_zm_perk_can_deadshot**</span>
-1. xmodel_1e16997c874541f,<span style="color:red">**wpn_t9_zm_perk_can_deadshot**</span>
-1. xmodel_ae27f55345dde23,<span style="color:green">**wpn_t9_zm_perk_can_juggernogg**</span>
-1. xmodel_8a866dab595a9f6,<span style="color:green">**wpn_t9_zm_perk_can_juggernogg**</span>
-1. xmodel_dc8b52a598de649,<span style="color:green">**blank_pop_can**</span>
-
-<div><h2>Field Upgrades</h2></div>
-
-1. xmodel_a1bcd94047f98f1,<span style="color:green">**wpn_t9_zm_wand_cannister_healing_aura**</span>
-1. xmodel_324f737fb618ccb,<span style="color:green">**wpn_t9_zm_wand_cannister_energy_mine**</span>
-1. xmodel_fcd6d07442c9ada,<span style="color:green">**wpn_t9_zm_wand_cannister_aether_shroud**</span>
-1. xmodel_5f9b3ef8bb7330a,<span style="color:green">**wpn_t9_zm_wand_cannister_frost_blast**</span>
-1. xmodel_fc7ee5c69212e50,**attach_t9_ammo_mod_missing_view**
-1. xmodel_5c8d8d59a771d41,**attach_t9_ammo_mod_missing_view**
-1. xmodel_95ac0dbf9487d6a,**attach_t9_ammo_mod_missing_view**
-1. xmodel_96f6395f5856ff1,**attach_t9_ammo_mod_missing_view**
-1. xmodel_e66d1d4410e95ae,<span style="color:green">**wpn_t9_zm_wand_healing_aura_view**</span>
-1. xmodel_9b6d434e5a50230,<span style="color:green">**wpn_t9_zm_wand_energy_mine_view**</span>
-1. xmodel_1cc3ef26e4e67e7,<span style="color:green">**wpn_t9_zm_wand_aether_shroud_view**</span>
-1. xmodel_2bb17b8c266e4b7,<span style="color:green">**wpn_t9_zm_wand_frost_blast_view**</span>
-1. xmodel_ceb8e7c0f1da187,<span style="color:green">**wpn_t9_zm_wand_ring_fire_view**</span>
-1. xmodel_a1bcd94047f98f1,<span style="color:green">**wpn_t9_zm_wand_healing_aura_world**</span>
-1. xmodel_324f737fb618ccb,<span style="color:green">**wpn_t9_zm_wand_energy_mine_world**</span>
-1. xmodel_fcd6d07442c9ada,<span style="color:green">**wpn_t9_zm_wand_aether_shroud_world**</span>
-1. xmodel_5f9b3ef8bb7330a,<span style="color:green">**wpn_t9_zm_wand_frost_blast_world**</span>
-1. xmodel_84ce385b4dac69,<span style="color:green">**wpn_t9_zm_wand_closed_energy_mine**</span>
-1. xmodel_75ad8f39b6adc56,<span style="color:green">**wpn_t9_zm_wand_closed_ring_fire_wand_prop**</span>
-1. xmodel_410dfe4defd6e46,<span style="color:green">**wpn_t9_zm_wand_closed_aether_shroud_prop**</span>
-1. xmodel_d50cbf1b29ddb96,<span style="color:green">**wpn_t9_zm_wand_closed_frost_blast_prop**</span>
-1. xmodel_6c1ff07476068e9,<span style="color:green">**wpn_t9_zm_wand_healing_aura_prop**</span>
-1. xmodel_1bb92358aa2d0d7,<span style="color:green">**wpn_t9_zm_wand_cannister_frost_blast_view**</span>
-1. xmodel_1c57957830a468b,<span style="color:green">**wpn_t9_zm_wand_cannister_aether_shroud_view**</span>
-1. xmodel_635e6bb68e8f84e,<span style="color:green">**wpn_t9_zm_wand_cannister_healing_aura_view**</span>
-
-<div><h2>Weapons</h2></div>
-
-1. xmodel_40b142b4f38f9d2,<span style="color:green">**wpn_t9_eqp_grenade_frag**</span>
-1. xmodel_9935705bdae408c,<span style="color:green">**wpn_t9_eqp_grenade_decoy**</span>
-1. xmodel_1dd6868d4c338bf,<span style="color:green">**attach_t9_zm_silver_ww_mag_05_view**</span>
+   {% tablerow pair in row %}
+   {{ pair[1] }}
+   {% endtablerow %}
+  {%- endfor -%}
+</table>
+<div class="datatable-end"></div>
