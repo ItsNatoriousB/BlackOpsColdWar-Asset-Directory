@@ -1,12 +1,18 @@
 Operator,Asset Name,Faction
-Adler,usa_pl_adler_infiltration_head,NATO
-Adler,usa_pl_adler_detective_head,NATO
-Garcia,cub_pl_dgi_infiltration_head,DGI
-Portnova,rus_pl_kgb_infiltration_head,KGB
-Park,uk_pl_mi6_infiltration_head,MI6
-Sims,usa_pl_cia_infiltration_head,CIA
-Baker,usa_pl_navyseal_infiltration_head,Navy Seal
-Baker,usa_pl_navyseal_land_head,Navy Seal
-Baker,usa_pl_navyseal_sea_head,Navy Seal
-Baker,usa_pl_navyseal_slugger_head,Navy Seal
-Woods,usa_pl_woods_infiltration_head,Navy Seal
+Adler,usa_pl_adler_infiltration,Operator
+Adler,usa_pl_adler_detective,Operator
+Garcia,cub_pl_dgi_infiltration,Operator
+Portnova,rus_pl_kgb_infiltration,Operator
+Park,uk_pl_mi6_infiltration,Operator
+Sims,usa_pl_cia_infiltration,Operator
+Baker,usa_pl_navyseal_infiltration,Operator
+Baker,usa_pl_navyseal_land,Operator
+Baker,usa_pl_navyseal_sea,Operator
+Baker,usa_pl_navyseal_slugger,Operator
+Woods,usa_pl_woods_infiltration,Operator
+Vargas,gen_pl_starter2,Operator
+Stone,gen_pl_starter3,Operator
+Beck,ger_pl_west_infiltration,Operator
+Power,gen_pl_starter5,Operator
+Song,gen_pl_starter4,Operator
+Hunter,gen_pl_starter1,Operator
