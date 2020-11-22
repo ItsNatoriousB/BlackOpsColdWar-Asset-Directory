@@ -1,11 +1,11 @@
 ---
-date: 2020-11-20 21:00:00
+date: 2020-11-21 18:11:00
 layout: weapon-post
 datatable: true
 title: BOCW Weapons
-subtitle: "xModel names for weapons"
+subtitle: "Names for wapons"
 description: >-
-  "xModel list for gun names"
+  "A list for gun names"
 image: >-
   https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
 optimized_image: >- 
@@ -31,8 +31,8 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-<div class="datatable-begin row-border stripe"></div>
-<table class="weapons-table display">
+<div class="datatable-begin"></div>
+<table class="weapons-table row-border stripe">
   {% for row in site.data.weapons-list %}
     {% if forloop.first %}
     <tr>

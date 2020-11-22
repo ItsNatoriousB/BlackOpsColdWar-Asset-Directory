@@ -299,6 +299,20 @@
     
     
         <url>
+            <loc>http://localhost:4000/bocw-asset-directory/assets/bocw-operators</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-11-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/assets/table-test</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-11-21</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/bocw-asset-directory/assets/bocw-weapons-list</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
