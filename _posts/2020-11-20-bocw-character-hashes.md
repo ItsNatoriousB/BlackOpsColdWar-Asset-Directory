@@ -31,18 +31,20 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-green = verified
+<div class="datatable-begin row-border stripe"></div>
+<table class="weapons-table display">
+  {% for row in site.data.character-hashes %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {%- endfor -%}
+    </tr>
+    {% endif %}
 
-<div><h2>Characters</h2></div>
-
-1. xmodel_5977a9435063757,c_t8_zmb_mob_hero_richtofen_torso1_cst
-1. xmodel_2876de5f4d2a4e0,c_t8_zmb_mob_hero_richtofen_lowerbody2
-1. xmodel_ee255b7aead7504,
-1. xmodel_fd4565398a78c01,c_t8_zmb_mob_hero_richtofen_lowerbody1_cst
-1. xmodel_8f0588b2803dde5,c_t8_zmb_ofc_hero_richtofen_lowerbody1_cst
-1. xmodel_7194ed19557fcba,c_t8_zmb_mob_hero_dempsey_lowerbody1_cst
-1. xmodel_187a5d4d315bdf8,c_t8_zmb_mob_hero_nikolai_lowerbody1_cst
-
-<a href="/ItsNatoriousB/CODMW-Operator-Directory/issues/new/choose" class="btn btn-primary" role="button">
-  <span class="d-none d-md-block">New Issue</span>
-</a>
+   {% tablerow pair in row %}
+   {{ pair[1] }}
+   {% endtablerow %}
+  {%- endfor -%}
+</table>
+<div class="datatable-end"></div>

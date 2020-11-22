@@ -5,29 +5,13 @@
     <description>A site to help easily browse and locate content for usage</description>
     <link>http://localhost:4000/bocw-asset-directory/</link>
     <atom:link href="http://localhost:4000/bocw-asset-directory/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Nov 2020 19:24:12 -0500</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2020 19:24:12 -0500</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2020 21:22:21 -0500</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2020 21:22:21 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>BOCW Weapons</title>
-        <description>&lt;div class=&quot;datatable-begin compact&quot;&gt;&lt;/div&gt; &lt;table style=&quot;width: 100%; text-align: center; margin-left: auto; margin-right: auto;&quot; border=&quot;none&quot;&gt; &lt;tr&gt; &lt;th&gt;Gun Name&lt;/th&gt; &lt;th&gt;Asset Name&lt;/th&gt; &lt;th&gt;Type&lt;/th&gt; &lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; Pellington &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **sniper_quickscope** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Sniper Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; M82 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **sniper_powersemi** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Sniper Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; LW3 Tundra &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **sniper_standard** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Sniper Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; XM4 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **ar_mercenary** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Assault Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; AK-47 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **ar_confront** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Assault Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; QBZ-83 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **ar_mobility** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Assault Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr...</description>
-        <pubDate>Sat, 21 Nov 2020 13:11:00 -0500</pubDate>
-        <link>http://localhost:4000/bocw-asset-directory/assets/table-test</link>
-        <guid isPermaLink="true">http://localhost:4000/bocw-asset-directory/assets/table-test</guid>
-        
-        <category>weapons</category>
-        
-        <category>hashes</category>
-        
-        <category>names</category>
-        
-        <category>assets</category>
-      </item>
-    
-      <item>
-        <title>BOCW Weapons</title>
-        <description>&lt;div class=&quot;datatable-begin&quot;&gt;&lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Name&lt;/th&gt; &lt;th&gt;Asset Name&lt;/th&gt; &lt;th&gt;Category&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Pellington&lt;/td&gt; &lt;td&gt;&lt;strong&gt;sniper_quickscope&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Sniper Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;M82&lt;/td&gt; &lt;td&gt;&lt;strong&gt;sniper_powersemi&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Sniper Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LW3 Tundra&lt;/td&gt; &lt;td&gt;&lt;strong&gt;sniper_standard&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Sniper Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;XM4&lt;/td&gt; &lt;td&gt;&lt;strong&gt;ar_mercenary&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Assault Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;AK-47&lt;/td&gt; &lt;td&gt;&lt;strong&gt;ar_confront&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Assault Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;QBZ-83&lt;/td&gt; &lt;td&gt;&lt;strong&gt;ar_Mobility&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Assault Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;FFAR 1&lt;/td&gt; &lt;td&gt;&lt;strong&gt;ar_fastfire&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Assault Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Krig 6&lt;/td&gt; &lt;td&gt;&lt;strong&gt;ar_krig6&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Assault Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LW3 Tundra&lt;/td&gt; &lt;td&gt;&lt;strong&gt;sniper_standard&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Assault Rifle&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LW3 Tundra&lt;/td&gt; &lt;td&gt;&lt;strong&gt;sniper_standard&lt;/strong&gt;&lt;/td&gt; &lt;td&gt;Assault Rifle&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;div class=&quot;datatable-end&quot;&gt;&lt;/div&gt; &lt;div&gt;&lt;h2&gt;SMGS&lt;/h2&gt;&lt;/div&gt; &lt;ol&gt; &lt;li&gt;MP5 - &lt;strong&gt;smg_standard&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;AK-74u - &lt;strong&gt;smg_heavy&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;KSP 45 - &lt;strong&gt;smg_burst&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Milano 821 - &lt;strong&gt;handling_beta&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Bullfrog - &lt;strong&gt;smg_capacity&lt;/strong&gt;&lt;/li&gt;...</description>
+        <description>&lt;div class=&quot;datatable-begin row-border stripe&quot;&gt;&lt;/div&gt; &lt;table class=&quot;weapons-table display&quot;&gt; &lt;tr&gt; &lt;th&gt;Gun Name&lt;/th&gt; &lt;th&gt;Asset Name&lt;/th&gt; &lt;th&gt;Type&lt;/th&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; Pellington &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **sniper_quickscope** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Sniper Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; M82 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **sniper_powersemi** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Sniper Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; LW3 Tundra &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **sniper_standard** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Sniper Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; XM4 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **ar_mercenary** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Assault Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; AK-47 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **ar_confront** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Assault Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; QBZ-83 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; **ar_mobility** &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Assault Rifle &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; FFAR 1 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;...</description>
         <pubDate>Fri, 20 Nov 2020 16:00:00 -0500</pubDate>
         <link>http://localhost:4000/bocw-asset-directory/assets/bocw-weapons-list</link>
         <guid isPermaLink="true">http://localhost:4000/bocw-asset-directory/assets/bocw-weapons-list</guid>
@@ -43,64 +27,7 @@
     
       <item>
         <title>BOCW Zombie Hashes</title>
-        <description>&lt;p&gt;green = verified&lt;/p&gt;
-
-&lt;div&gt;&lt;h2&gt;Perks&lt;/h2&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;xmodel_1f11eedc22989c2,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;p8_zom_aether_perk_bottle_03&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_dbfe8243991d9e2,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_quick_revive&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_6976dd18a2b9195,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_quick_revive&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_5995b3cc741a38e,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_elemental&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_abaf3b42adf5410,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_elemental&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_51de9ecdca91663,&lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_staminup&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_6788cb668a320e8,&lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_staminup&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_9da87856180f3ee,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_speed_cola&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_580a23e435fe632,&lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_deadshot&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_1e16997c874541f,&lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_deadshot&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_ae27f55345dde23,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_juggernogg&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_8a866dab595a9f6,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_perk_can_juggernogg&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_dc8b52a598de649,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;blank_pop_can&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div&gt;&lt;h2&gt;Field Upgrades&lt;/h2&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;xmodel_a1bcd94047f98f1,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_cannister_healing_aura&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_324f737fb618ccb,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_cannister_energy_mine&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_fcd6d07442c9ada,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_cannister_aether_shroud&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_5f9b3ef8bb7330a,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_cannister_frost_blast&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_fc7ee5c69212e50,&lt;strong&gt;attach_t9_ammo_mod_missing_view&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_5c8d8d59a771d41,&lt;strong&gt;attach_t9_ammo_mod_missing_view&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_95ac0dbf9487d6a,&lt;strong&gt;attach_t9_ammo_mod_missing_view&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_96f6395f5856ff1,&lt;strong&gt;attach_t9_ammo_mod_missing_view&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_e66d1d4410e95ae,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_healing_aura_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_9b6d434e5a50230,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_energy_mine_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_1cc3ef26e4e67e7,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_aether_shroud_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_2bb17b8c266e4b7,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_frost_blast_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_ceb8e7c0f1da187,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_ring_fire_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_a1bcd94047f98f1,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_healing_aura_world&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_324f737fb618ccb,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_energy_mine_world&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_fcd6d07442c9ada,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_aether_shroud_world&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_5f9b3ef8bb7330a,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_frost_blast_world&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_84ce385b4dac69,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_closed_energy_mine&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_75ad8f39b6adc56,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_closed_ring_fire_wand_prop&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_410dfe4defd6e46,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_closed_aether_shroud_prop&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_d50cbf1b29ddb96,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_closed_frost_blast_prop&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_6c1ff07476068e9,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_healing_aura_prop&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_1bb92358aa2d0d7,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_cannister_frost_blast_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_1c57957830a468b,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_cannister_aether_shroud_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_635e6bb68e8f84e,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_zm_wand_cannister_healing_aura_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div&gt;&lt;h2&gt;Weapons&lt;/h2&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;xmodel_40b142b4f38f9d2,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_eqp_grenade_frag&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_9935705bdae408c,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_eqp_grenade_decoy&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_1dd6868d4c338bf,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;attach_t9_zm_silver_ww_mag_05_view&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+        <description>&lt;div class=&quot;datatable-begin&quot;&gt;&lt;/div&gt; &lt;table class=&quot;zmb-table row-border stripe&quot;&gt; &lt;tr&gt; &lt;th&gt;Hash&lt;/th&gt; &lt;th&gt;Asset Name&lt;/th&gt; &lt;th&gt;Type&lt;/th&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_1f11eedc22989c2 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; p8_zom_aether_perk_bottle_03 &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_dbfe8243991d9e2 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_zm_perk_can_quick_revive &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_6976dd18a2b9195 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_zm_perk_can_quick_revive &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_5995b3cc741a38e &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_zm_perk_can_elemental &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_abaf3b42adf5410 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_zm_perk_can_elemental &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_51de9ecdca91663 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_zm_perk_can_staminup &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_6788cb668a320e8 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_zm_perk_can_staminup &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_9da87856180f3ee...</description>
         <pubDate>Fri, 20 Nov 2020 07:00:00 -0500</pubDate>
         <link>http://localhost:4000/bocw-asset-directory/assets/bocw-zombies-hashes</link>
         <guid isPermaLink="true">http://localhost:4000/bocw-asset-directory/assets/bocw-zombies-hashes</guid>
@@ -118,24 +45,7 @@
     
       <item>
         <title>BOCW Character Hashes</title>
-        <description>&lt;p&gt;green = verified&lt;/p&gt;
-
-&lt;div&gt;&lt;h2&gt;Characters&lt;/h2&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;xmodel_5977a9435063757,c_t8_zmb_mob_hero_richtofen_torso1_cst&lt;/li&gt;
-  &lt;li&gt;xmodel_2876de5f4d2a4e0,c_t8_zmb_mob_hero_richtofen_lowerbody2&lt;/li&gt;
-  &lt;li&gt;xmodel_ee255b7aead7504,&lt;/li&gt;
-  &lt;li&gt;xmodel_fd4565398a78c01,c_t8_zmb_mob_hero_richtofen_lowerbody1_cst&lt;/li&gt;
-  &lt;li&gt;xmodel_8f0588b2803dde5,c_t8_zmb_ofc_hero_richtofen_lowerbody1_cst&lt;/li&gt;
-  &lt;li&gt;xmodel_7194ed19557fcba,c_t8_zmb_mob_hero_dempsey_lowerbody1_cst&lt;/li&gt;
-  &lt;li&gt;xmodel_187a5d4d315bdf8,c_t8_zmb_mob_hero_nikolai_lowerbody1_cst&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;/ItsNatoriousB/CODMW-Operator-Directory/issues/new/choose&quot; class=&quot;btn btn-primary&quot; role=&quot;button&quot;&gt;
-  &lt;span class=&quot;d-none d-md-block&quot;&gt;New Issue&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
+        <description>&lt;div class=&quot;datatable-begin row-border stripe&quot;&gt;&lt;/div&gt; &lt;table class=&quot;weapons-table display&quot;&gt; &lt;tr&gt; &lt;th&gt;Hash&lt;/th&gt; &lt;th&gt;Asset Name&lt;/th&gt; &lt;th&gt;Type&lt;/th&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_5977a9435063757 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; c_t8_zmb_mob_hero_richtofen_torso1_cst &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Torso &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_2876de5f4d2a4e0 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; c_t8_zmb_mob_hero_richtofen_lowerbody2 &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Lower Body &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_fd4565398a78c01 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; c_t8_zmb_mob_hero_richtofen_lowerbody1_cst &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Lower Body &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_8f0588b2803dde5 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; c_t8_zmb_ofc_hero_richtofen_lowerbody1_cst &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Lower Body &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_7194ed19557fcba &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; c_t8_zmb_mob_hero_dempsey_lowerbody1_cst &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Lower Body &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_187a5d4d315bdf8 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; c_t8_zmb_mob_hero_nikolai_lowerbody1_cst &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Lower Body &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_ee255b7aead7504 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; uknown &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; unknown...</description>
         <pubDate>Fri, 20 Nov 2020 07:00:00 -0500</pubDate>
         <link>http://localhost:4000/bocw-asset-directory/assets/bocw-character-hashes</link>
         <guid isPermaLink="true">http://localhost:4000/bocw-asset-directory/assets/bocw-character-hashes</guid>
@@ -153,30 +63,7 @@
     
       <item>
         <title>BOCW Xmodel Hashes</title>
-        <description>&lt;p&gt;green = verified&lt;/p&gt;
-&lt;div&gt;&lt;h2&gt;Perks&lt;/h2&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;xmodel_bb0de0ba5c03da7,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;p9_talent_ninja&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div&gt;&lt;h2&gt;Weapons&lt;/h2&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;xmodel_ee0deae442eee06,wpn_t8_knife_combat_blade&lt;/li&gt;
-  &lt;li&gt;xmodel_b7d277484609d2c,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_ar_damage_barrel&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_40b142b4f38f9d2,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_eqp_grenade_frag&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_9935705bdae408c,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_eqp_grenade_decoy&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div&gt;&lt;h2&gt;Misc&lt;/h2&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;xmodel_29aa9781b6e51d6,medical_syringe&lt;/li&gt;
-  &lt;li&gt;xmodel_eb13b83cf350a91,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;c_t9_m1_helmet&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xmodel_b4bdf185071f2c8,&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;wpn_t9_eqp_listening_device&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+        <description>&lt;div class=&quot;datatable-begin row-border stripe&quot;&gt;&lt;/div&gt; &lt;table class=&quot;weapons-table display&quot;&gt; &lt;tr&gt; &lt;th&gt;Hash&lt;/th&gt; &lt;th&gt;Asset Name&lt;/th&gt; &lt;th&gt;Type&lt;/th&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_bb0de0ba5c03da7 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; p9_talent_ninja &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Perk &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_ee0deae442eee06 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t8_knife_combat_blade &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Weapon &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_b7d277484609d2c &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_ar_damage_barrel &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Weapon &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_40b142b4f38f9d2 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_eqp_grenade_frag &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Equipment &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_9935705bdae408c &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_eqp_grenade_decoy &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Equipment &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_b4bdf185071f2c8 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; wpn_t9_eqp_listening_device &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; Equipment &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_29aa9781b6e51d6 &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt; medical_syringe &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt; &lt;/td&gt;&lt;/tr&gt; &lt;tr class=&quot;row1&quot;&gt; &lt;td class=&quot;col1&quot;&gt; xmodel_eb13b83cf350a91...</description>
         <pubDate>Thu, 19 Nov 2020 07:00:00 -0500</pubDate>
         <link>http://localhost:4000/bocw-asset-directory/assets/bocw-xmodel-hashes</link>
         <guid isPermaLink="true">http://localhost:4000/bocw-asset-directory/assets/bocw-xmodel-hashes</guid>
