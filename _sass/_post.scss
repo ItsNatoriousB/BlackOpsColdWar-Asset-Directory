@@ -1,3 +1,13 @@
+.weapons-table,
+tr.weapons-table,
+td.weapons-table {
+  padding: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+
 .post {
   position: relative;
   top: rem(30px);

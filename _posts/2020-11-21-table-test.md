@@ -31,20 +31,20 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-<div class="datatable-begin compact"></div>
-<table style="width: 100%; text-align: center; margin-left: auto; margin-right: auto;" border="none">
+<div class="datatable-begin"></div>
+<table class="weapons-table row-border stripe">
   {% for row in site.data.weapons-list %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
-      {% endfor %}
+      {%- endfor -%}
     </tr>
     {% endif %}
 
    {% tablerow pair in row %}
    {{ pair[1] }}
    {% endtablerow %}
-  {% endfor %}
+  {%- endfor -%}
 </table>
 <div class="datatable-end"></div>
