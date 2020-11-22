@@ -31,21 +31,22 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-<div class="datatable-begin"></div>
+<div class="datatable-begin compact"></div>
+<table style="width: 100%; text-align: center; margin-left: auto; margin-right: auto;" border="none">
+  {% for row in site.data.weapons-list %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
 
-Name        | Asset Name                            | Category        |
-------------|---------------------------------------|-----------------|
-Pellington  | **sniper_quickscope**                 | Sniper Rifle    |
-M82         | **sniper_powersemi**                  | Sniper Rifle    |
-LW3 Tundra  | **sniper_standard**                   | Sniper Rifle    |
-XM4         | **ar_mercenary**                      | Assault Rifle   |
-AK-47       | **ar_confront**                       | Assault Rifle   |
-QBZ-83      | **ar_Mobility**                       | Assault Rifle   |
-FFAR 1      | **ar_fastfire**                       | Assault Rifle   |
-Krig 6      | **ar_krig6**                          | Assault Rifle   |
-LW3 Tundra  | **sniper_standard**                   | Assault Rifle   |
-LW3 Tundra  | **sniper_standard**                   | Assault Rifle   |
-
+   {% tablerow pair in row %}
+   {{ pair[1] }}
+   {% endtablerow %}
+  {% endfor %}
+</table>
 <div class="datatable-end"></div>
 
 <div><h2>SMGS</h2></div>
