@@ -31,8 +31,8 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-<div class="datatable-begin"></div>
-<table class="weapons-table row-border stripe">
+<div class="datatable-begin row-border stripe"></div>
+<table class="weapons-table">
   {% for row in site.data.weapons-list %}
     {% if forloop.first %}
     <tr>
