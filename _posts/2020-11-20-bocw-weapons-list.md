@@ -32,7 +32,7 @@ type: custom_content
 ---
 
 <div class="datatable-begin row-border stripe"></div>
-<table class="weapons-table">
+<table class="weapons-table display">
   {% for row in site.data.weapons-list %}
     {% if forloop.first %}
     <tr>
