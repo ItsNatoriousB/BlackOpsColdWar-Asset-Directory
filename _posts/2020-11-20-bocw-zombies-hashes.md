@@ -32,7 +32,7 @@ type: custom_content
 ---
 
 <div class="datatable-begin"></div>
-<table class="weapons-table row-border stripe">
+<table class="zmb-table row-border stripe">
   {% for row in site.data.zombie-hashes %}
     {% if forloop.first %}
     <tr>
