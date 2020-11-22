@@ -1,30 +1,30 @@
 Gun Name,Asset Name,Type
-Pellington,**sniper_quickscope**,Sniper Rifle
-M82,**sniper_powersemi**,Sniper Rifle
-LW3 Tundra,**sniper_standard**,Sniper Rifle
-XM4,**ar_mercenary**,Assault Rifle
-AK-47,**ar_confront**,Assault Rifle
-QBZ-83,**ar_mobility**,Assault Rifle
-FFAR 1,**ar_fastfire**,Assault Rifle
-Krig 6,**ar_krig6**,Assault Rifle
-MP5,**smg_standard**,SMG
-AK-74u,**smg_heavy**,SMG
-KSP 45,**smg_burst**,SMG
-Milano 821,**handling_beta**,SMG
-Bullfrog,**smg_capacity**,SMG
-Type 63,**tr_damagesemi**,Tactical Rifle
-M16,**tr_longburst**,Tactical Rifle
-AUG,**tr_powerburst**,Tactical Rifle
-DMR 14,**tr_precisionsemi**,Tactical Rifle
-M60,**lmg_slowfire**,LMG
-RPD,**lmg_light**,LMG
-Stoner 63,**lmg_accurate**,LMG
-1911,**pistol_semiauto**,Pistol
-Magnum,**pistol_revolver**,Pistol
-Diamatti,**pistol_burst**,Pistol
-Cigma 2,**launcher_standard**,Launcher
-RPG-7,**launcher_freefire**,Launcher
-Knife,**knife_combat_american**,Melee
-M79,**grenade_launcher**,Launcher
-Hauer 77,**shotgun_pump**,Shotgun
-Gallo SA12,**shotgun_semiauto**,Shotgun
+Pellington,wpn_t9_sniper_quickscope,Sniper Rifle
+M82,wpn_t9_sniper_powersemi,Sniper Rifle
+LW3 Tundra,wpn_t9_sniper_standard,Sniper Rifle
+XM4,wpn_t9_ar_mercenary,Assault Rifle
+AK-47,wpn_t9_ar_confront,Assault Rifle
+QBZ-83,wpn_t9_ar_mobility,Assault Rifle
+FFAR 1,wpn_t9_ar_fastfire,Assault Rifle
+Krig 6,wpn_t9_ar_krig6,Assault Rifle
+MP5,wpn_t9_smg_standard,SMG
+AK-74u,wpn_t9_smg_heavy,SMG
+KSP 45,wpn_t9_smg_burst,SMG
+Milano 821,wpn_t9_handling_beta,SMG
+Bullfrog,wpn_t9_smg_capacity,SMG
+Type 63,wpn_t9_tr_damagesemi,Tactical Rifle
+M16,wpn_t9_tr_longburst,Tactical Rifle
+AUG,wpn_t9_tr_powerburst,Tactical Rifle
+DMR 14,wpn_t9_tr_precisionsemi,Tactical Rifle
+M60,wpn_t9_lmg_slowfire,LMG
+RPD,wpn_t9_lmg_light,LMG
+Stoner 63,wpn_t9_lmg_accurate,LMG
+1911,wpn_t9_pistol_semiauto,Pistol
+Magnum,wpn_t9_pistol_revolver,Pistol
+Diamatti,wpn_t9_pistol_burst,Pistol
+Cigma 2,wpn_t9_launcher_standard,Launcher
+RPG-7,wpn_t9_launcher_freefire,Launcher
+Knife,wpn_t9_knife_combat_american,Melee
+M79,wpn_t9_grenade_launcher,Launcher
+Hauer 77,wpn_t9_shotgun_pump,Shotgun
+Gallo SA12,wpn_t9_shotgun_semiauto,Shotgun
