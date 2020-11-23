@@ -3,18 +3,18 @@
   
   
     {
+      "title"    : "BOCW Camos",
+      "tags"     : "camo, hashes, and names",
+      "categories" : "assets",
+      "url"      : "/bocw-asset-directory/assets/bocw-camo-list",
+      "date"     : "11/22/2020"
+    } ,
+  
+    {
       "title"    : "BOCW Operators",
       "tags"     : "names and operators",
       "categories" : "assets",
       "url"      : "/bocw-asset-directory/assets/bocw-operators",
-      "date"     : "11/21/2020"
-    } ,
-  
-    {
-      "title"    : "BOCW Weapons",
-      "tags"     : "weapons, hashes, and names",
-      "categories" : "assets",
-      "url"      : "/bocw-asset-directory/assets/table-test",
       "date"     : "11/21/2020"
     } ,
   

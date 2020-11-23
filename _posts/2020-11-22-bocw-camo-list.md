@@ -1,20 +1,20 @@
 ---
-date: 2020-11-21 18:11:00
+date: 2020-11-22 18:21:00
 layout: weapon-post
 datatable: true
-title: BOCW Weapons
-subtitle: "Names for wapons"
+title: BOCW Camos
+subtitle: "xModel names for camos"
 description: >-
-  "A list for gun names"
+  "xModel list for camo names"
 image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
+  https://res.cloudinary.com/natoriousb/image/upload/v1606095662/headers/Multiplayer_Screenshot_07_ckes6n.jpg
 optimized_image: >- 
-  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
+  https://res.cloudinary.com/natoriousb/image/upload/v1606095662/headers/Multiplayer_Screenshot_07_ckes6n.jpg
 featured_image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
+  https://res.cloudinary.com/natoriousb/image/upload/v1606095662/headers/Multiplayer_Screenshot_07_ckes6n.jpg
 category: assets
 tags:
-  - weapons
+  - camo
   - hashes
   - names
 author: itsnatorioub
@@ -31,9 +31,9 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-<div class="datatable-begin"></div>
-<table class="weapons-table row-border stripe">
-  {% for row in site.data.weapons-list %}
+<div class="datatable-begin row-border stripe"></div>
+<table class="weapons-table display">
+  {% for row in site.data.camo-list %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
