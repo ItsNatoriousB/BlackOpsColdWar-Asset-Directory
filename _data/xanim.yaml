@@ -1,0 +1,81 @@
+---
+-
+    xAnim: xanim_9b32127e6f358c9
+    Asset Name: vm_ray_gun_t9_ads_base_up
+    Status: Verified
+-
+    xAnim: xanim_df4ed8a66a9cdd0
+    Asset Name: vm_ray_gun_t9_ads_base_down
+    Status: Verified
+-
+    xAnim: xanim_ec396a1853eda5a
+    Asset Name: vm_ray_gun_t9_crawl_in
+    Status: Verified
+-
+    xAnim: xanim_af7067588c2ddf3
+    Asset Name: vm_ray_gun_t9_crawl_out
+    Status: Verified
+-
+    xAnim: xanim_145b367f2c542d1
+    Asset Name: vm_ray_gun_t9_crawl_right
+    Status: Verified
+-
+    xAnim: xanim_145bd67f2c553cf
+    Asset Name: vm_ray_gun_t9_crawl_left
+    Status: Verified
+-
+    xAnim: xanim_145c367f2c55e01
+    Asset Name: vm_ray_gun_t9_crawl_back
+    Status: Verified
+-
+    xAnim: xanim_145c767f2c564cd
+    Asset Name: vm_ray_gun_t9_crawl_forward
+    Status: Verified
+-
+    xAnim: xanim_38ad1525267013d
+    Asset Name: vm_ray_gun_t9_sprint_in
+    Status: Verified
+-
+    xAnim: xanim_39491272f3bd850
+    Asset Name: vm_ray_gun_t9_sprint_loop
+    Status: Verified
+-
+    xAnim: xanim_e053be20f874d26
+    Asset Name: vm_ray_gun_t9_sprint_out
+    Status: Verified
+-
+    xAnim: xanim_3f3a830585c720
+    Asset Name: vm_ray_gun_t9_pullout
+    Status: Verified
+-
+    xAnim: xanim_aac032897df8d40
+    Asset Name: vm_ray_gun_t9_putaway
+    Status: Verified
+-
+    xAnim: xanim_4d6dabe3083d21d
+    Asset Name: vm_ray_gun_t9_fire
+    Status: Verified
+-
+    xAnim: xanim_5fdd079da5db60d
+    Asset Name: vm_ray_gun_t9_melee
+    Status: Verified
+-
+    xAnim: xanim_673930884f8cf10
+    Asset Name: vm_ray_gun_t9_reload
+    Status: Verified
+-
+    xAnim: xanim_6e3fa5a7e6be48e
+    Asset Name: vm_ray_gun_t9_pullout_quick
+    Status: Verified
+-
+    xAnim: xanim_b699140292af65f
+    Asset Name: vm_ray_gun_t9_idle
+    Status: Verified
+-
+    xAnim: xanim_ce1592f2062b73b
+    Asset Name: vm_ray_gun_t9_taunt
+    Status: Verified
+-
+    xAnim: xanim_f18ad144272a97a
+    Asset Name: vm_ray_gun_t9_first_raise
+    Status: Verified

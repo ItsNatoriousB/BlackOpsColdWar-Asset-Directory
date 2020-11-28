@@ -31,9 +31,16 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
+<p class="image-gallery">
+{% for image in page.images %}
+        <img src="thumbs/{{ image.name }}" alt="{{ image.name }}" title="{{ image.name }}" />
+        <span>{{ filename }}</span>
+{% endfor %}
+</p>
+
 <div class="datatable-begin row-border stripe"></div>
 <table class="weapons-table display">
-  {% for row in site.data.camo-list %}
+  {% for row in site.data.camos %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}

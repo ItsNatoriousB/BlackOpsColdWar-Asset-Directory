@@ -1,0 +1,69 @@
+---
+-
+    Name: Hunter
+    Asset Name: gen_pl_starter1
+    Faction: NATO
+-
+    Name: Powers
+    Asset Name: gen_pl_starter5
+    Faction: NATO
+-
+    Name: Park
+    Asset Name: uk_pl_mi6_infiltration
+    Faction: NATO
+-
+    Name: Adler
+    Asset Name: usa_pl_adler_detective
+    Faction: NATO
+-
+    Name: Adler
+    Asset Name: usa_pl_adler_infiltration
+    Faction: NATO
+-
+    Name: Sims
+    Asset Name: usa_pl_cia_infiltration
+    Faction: NATO
+-
+    Name: Baker
+    Asset Name: usa_pl_navyseal_infiltration
+    Faction: NATO
+-
+    Name: Baker
+    Asset Name: usa_pl_navyseal_land
+    Faction: NATO
+-
+    Name: Baker
+    Asset Name: usa_pl_navyseal_sea
+    Faction: NATO
+-
+    Name: Baker
+    Asset Name: usa_pl_navyseal_slugger
+    Faction: NATO
+-
+    Name: Woods
+    Asset Name: usa_pl_woods_infiltration
+    Faction: NATO
+-
+    Name: Garcia
+    Asset Name: cub_pl_dgi_infiltration
+    Faction: Warsaw PACT
+-
+    Name: Vargas
+    Asset Name: gen_pl_starter2
+    Faction: Warsaw PACT
+-
+    Name: Stone
+    Asset Name: gen_pl_starter3
+    Faction: Warsaw PACT
+-
+    Name: Song
+    Asset Name: gen_pl_starter4
+    Faction: Warsaw PACT
+-
+    Name: Beck
+    Asset Name: ger_pl_west_infiltration
+    Faction: Warsaw PACT
+-
+    Name: Portnova
+    Asset Name: rus_pl_kgb_infiltration
+    Faction: Warsaw PACT

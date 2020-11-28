@@ -1,0 +1,117 @@
+---
+-
+    Gun Name: AK-47
+    Asset Name: wpn_t9_ar_confront
+    Class: Assault Rifle
+-
+    Gun Name: FFAR 1
+    Asset Name: wpn_t9_ar_fastfire
+    Class: Assault Rifle
+-
+    Gun Name: Krig 6
+    Asset Name: wpn_t9_ar_krig6
+    Class: Assault Rifle
+-
+    Gun Name: QBZ-83
+    Asset Name: wpn_t9_ar_mobility
+    Class: Assault Rifle
+-
+    Gun Name: XM4
+    Asset Name: wpn_t9_ar_mercenary
+    Class: Assault Rifle
+-
+    Gun Name: Cigma 2
+    Asset Name: wpn_t9_launcher_standard
+    Class: Launcher
+-
+    Gun Name: M79
+    Asset Name: wpn_t9_grenade_launcher
+    Class: Launcher
+-
+    Gun Name: RPG-7
+    Asset Name: wpn_t9_launcher_freefire
+    Class: Launcher
+-
+    Gun Name: M60
+    Asset Name: wpn_t9_lmg_slowfire
+    Class: LMG
+-
+    Gun Name: RPD
+    Asset Name: wpn_t9_lmg_light
+    Class: LMG
+-
+    Gun Name: Stoner 63
+    Asset Name: wpn_t9_lmg_accurate
+    Class: LMG
+-
+    Gun Name: Knife
+    Asset Name: wpn_t9_knife_combat_american
+    Class: Melee
+-
+    Gun Name: Diamatti
+    Asset Name: wpn_t9_pistol_burst
+    Class: Pistol
+-
+    Gun Name: Magnum
+    Asset Name: wpn_t9_pistol_revolver
+    Class: Pistol
+-
+    Gun Name: 1911
+    Asset Name: wpn_t9_pistol_semiauto
+    Class: Pistol
+-
+    Gun Name: Gallo SA12
+    Asset Name: wpn_t9_shotgun_semiauto
+    Class: Shotgun
+-
+    Gun Name: Hauer 77
+    Asset Name: wpn_t9_shotgun_pump
+    Class: Shotgun
+-
+    Gun Name: AK-74u
+    Asset Name: wpn_t9_smg_heavy
+    Class: SMG
+-
+    Gun Name: Bullfrog
+    Asset Name: wpn_t9_smg_capacity
+    Class: SMG
+-
+    Gun Name: KSP 45
+    Asset Name: wpn_t9_smg_burst
+    Class: SMG
+-
+    Gun Name: Milano 821
+    Asset Name: wpn_t9_handling_beta
+    Class: SMG
+-
+    Gun Name: MP5
+    Asset Name: wpn_t9_smg_standard
+    Class: SMG
+-
+    Gun Name: LW3 Tundra
+    Asset Name: wpn_t9_sniper_standard
+    Class: Sniper Rifle
+-
+    Gun Name: M82
+    Asset Name: wpn_t9_sniper_powersemi
+    Class: Sniper Rifle
+-
+    Gun Name: Pellington
+    Asset Name: wpn_t9_sniper_quickscope
+    Class: Sniper Rifle
+-
+    Gun Name: Type 63
+    Asset Name: wpn_t9_tr_damagesemi
+    Class: Tactical Rifle
+-
+    Gun Name: AUG
+    Asset Name: wpn_t9_tr_powerburst
+    Class: Tactical Rifle
+-
+    Gun Name: DMR 14
+    Asset Name: wpn_t9_tr_precisionsemi
+    Class: Tactical Rifle
+-
+    Gun Name: M16
+    Asset Name: wpn_t9_tr_longburst
+    Class: Tactical Rifle

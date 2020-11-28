@@ -33,7 +33,7 @@ type: custom_content
 
 <div class="datatable-begin row-border stripe"></div>
 <table class="weapons-table display">
-  {% for row in site.data.character-hashes %}
+  {% for row in site.data.character_hashes %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}

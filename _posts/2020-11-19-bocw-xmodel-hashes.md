@@ -32,7 +32,7 @@ type: custom_content
 
 <div class="datatable-begin row-border stripe"></div>
 <table class="weapons-table display">
-  {% for row in site.data.xmodel-hashes %}
+  {% for row in site.data.xmodel %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}

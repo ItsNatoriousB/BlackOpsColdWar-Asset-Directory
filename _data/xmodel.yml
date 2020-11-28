@@ -1,0 +1,33 @@
+---
+-
+    Hash: xmodel_bb0de0ba5c03da7
+    Asset Name: p9_talent_ninja
+    Type: Perk
+-
+    Hash: xmodel_ee0deae442eee06
+    Asset Name: wpn_t8_knife_combat_blade
+    Type: Weapon
+-
+    Hash: xmodel_b7d277484609d2c
+    Asset Name: wpn_t9_ar_damage_barrel
+    Type: Weapon
+-
+    Hash: xmodel_40b142b4f38f9d2
+    Asset Name: wpn_t9_eqp_grenade_frag
+    Type: Equipment
+-
+    Hash: xmodel_9935705bdae408c
+    Asset Name: wpn_t9_eqp_grenade_decoy
+    Type: Equipment
+-
+    Hash: xmodel_b4bdf185071f2c8
+    Asset Name: wpn_t9_eqp_listening_device
+    Type: Equipment
+-
+    Hash: xmodel_29aa9781b6e51d6
+    Asset Name: medical_syringe
+    Type: Prop
+-
+    Hash: xmodel_eb13b83cf350a91
+    Asset Name: c_t9_m1_helmet
+    Type: Prop
