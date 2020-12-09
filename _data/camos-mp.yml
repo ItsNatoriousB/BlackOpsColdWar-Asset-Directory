@@ -214,16 +214,16 @@
     asset-name: t9_camo_mp_meatallurgy_01
     mode: Multiplayer
     tier: Mastery
-    image: camo_tier7_mp_01_pattern
+    image: camo_mastery_mp_gold_pattern
 -
     name: Diamond
     asset-name: t9_camo_camo_diamond
     mode: Multiplayer
     tier: Mastery
-    image: camo_tier7_mp_01_pattern
+    image: camo_mastery_mp_diamond_pattern
 -
     name: Dark Matter
     asset-name: t9_camo_darkmatter_mp
     mode: Multiplayer
     tier: Mastery
-    image: camo_tier7_mp_01_pattern
+    image: camo_mastery_mp_darkmatter_pattern
