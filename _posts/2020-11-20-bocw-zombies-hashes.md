@@ -32,8 +32,8 @@ type: custom_content
 ---
 
 <div class="datatable-begin"></div>
-<table class="zmb-table row-border stripe">
-  {% for row in site.data.zombie_hashes %}
+<table>
+  {% for row in site.data.zombies_hashes %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}

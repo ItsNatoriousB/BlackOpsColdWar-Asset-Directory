@@ -298,7 +298,63 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/bocw-asset-directory/_photos/classic-camos/</loc>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/psychedelic/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/stripes/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/mastery/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/classic/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/science/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/flora/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/geometric/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/bocw-asset-directory/_photos/spray/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -329,7 +385,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/bocw-asset-directory/assets/table-test</loc>
+            <loc>http://localhost:4000/bocw-asset-directory/assets/data-test</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-11-21</lastmod>

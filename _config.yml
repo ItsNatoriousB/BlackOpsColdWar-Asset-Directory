@@ -16,6 +16,11 @@ defaults:
         is_post: false
         layout: default
         author: "itsnatoriousb"
+  -
+    collections:
+      tutorials:
+        sort_by: game
+        output: true
         
 # Site Settings
 name: BOCW Asset Directory

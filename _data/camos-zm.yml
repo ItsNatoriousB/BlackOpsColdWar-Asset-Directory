@@ -1,0 +1,229 @@
+---
+-
+    name: Stroke
+    asset-name: t9_camo_zm_tier1_zm_01
+    mode: Zombies
+    tier: Grunge
+    image: camo_tier1_zm_01_pattern
+-
+    name: Glacier
+    asset-name: t9_camo_zm_tier1_zm_02
+    mode: Zombies
+    tier: Grunge
+    image: camo_tier1_zm_02_pattern
+-
+    name: Grudge
+    asset-name: t9_camo_zm_tier1_zm_03
+    mode: Zombies
+    tier: Grunge
+    image: camo_tier1_zm_03_pattern
+-
+    name: Bloodshed
+    asset-name: t9_camo_zm_tier1_zm_04
+    mode: Zombies
+    tier: Grunge
+    image: camo_tier1_zm_04_pattern
+-
+    name: Rotten
+    asset-name: t9_camo_zm_tier1_zm_05
+    mode: Zombies
+    tier: Grunge
+    image: camo_tier1_zm_05_pattern
+-
+    name: Wasteland
+    asset-name: t9_camo_zm_tier2_zm_01
+    mode: Zombies
+    tier: Liquid
+    image: camo_tier2_zm_01_pattern
+-
+    name: Azmhibian
+    asset-name: t9_camo_zm_tier2_zm_02
+    mode: Zombies
+    tier: Liquid
+    image: camo_tier2_zm_02_pattern
+-
+    name: Boundary
+    asset-name: t9_camo_zm_tier2_zm_03
+    mode: Zombies
+    tier: Liquid
+    image: camo_tier2_zm_03_pattern
+-
+    name: Threshold
+    asset-name: t9_camo_zm_tier2_zm_04
+    mode: Zombies
+    tier: Liquid
+    image: camo_tier2_zm_04_pattern
+-
+    name: Banished
+    asset-name: t9_camo_zm_tier2_zm_05
+    mode: Zombies
+    tier: Liquid
+    image: camo_tier2_zm_05_pattern
+-
+    name: Extortion
+    asset-name: t9_camo_zm_tier3_01
+    mode: Zombies
+    tier: Brushstroke
+    image: 
+-
+    name: Degeneration
+    asset-name: t9_camo_zm_tier3_02
+    mode: Zombies
+    tier: Brushstroke
+    image: 
+-
+    name: Downfall
+    asset-name: t9_camo_zm_tier3_03
+    mode: Zombies
+    tier: Brushstroke
+    image: camo_tier3_zm_03_pattern
+-
+    name: Drench
+    asset-name: t9_camo_zm_tier3_04
+    mode: Zombies
+    tier: Brushstroke
+    image: camo_tier3_zm_04_pattern
+-
+    name: Chemical
+    asset-name: t9_camo_zm_tier3_05
+    mode: Zombies
+    tier: Brushstroke
+    image: camo_tier3_zm_05_pattern
+-
+    name: Decadence
+    asset-name: t9_camo_zm_tier4_01
+    mode: Zombies
+    tier: Vintage
+    image: camo_tier4_zm_01_pattern
+-
+    name: Bravado
+    asset-name: t9_camo_zm_tier4_02
+    mode: Zombies
+    tier: Vintage
+    image: camo_tier4_zm_02_pattern
+-
+    name: Funkadelic
+    asset-name: t9_camo_zm_tier4_03
+    mode: Zombies
+    tier: Vintage
+    image: camo_tier4_zm_03_pattern
+-
+    name: Boutique
+    asset-name: t9_camo_zm_tier4_04
+    mode: Zombies
+    tier: Vintage
+    image: camo_tier4_zm_04_pattern
+-
+    name: Maniac
+    asset-name: t9_camo_zm_tier4_05
+    mode: Zombies
+    tier: Vintage
+    image: camo_tier4_zm_05_pattern
+-
+    name: Growl
+    asset-name: t9_camo_zm_tier5_01
+    mode: Zombies
+    tier: Fauna
+    image: camo_tier5_zm_01_pattern
+-
+    name: Scavenger
+    asset-name: t9_camo_zm_tier5_02
+    mode: Zombies
+    tier: Fauna
+    image: camo_tier5_zm_02_pattern
+-
+    name: Zebra
+    asset-name: t9_camo_zm_tier5_03
+    mode: Zombies
+    tier: Fauna
+    image: camo_tier5_zm_03_pattern
+-
+    name: Blue Tiger
+    asset-name: t9_camo_zm_tier5_04
+    mode: Zombies
+    tier: Fauna
+    image: camo_tier5_zm_04_pattern
+-
+    name: Rising Tiger
+    asset-name: t9_camo_zm_tier5_05
+    mode: Zombies
+    tier: Fauna
+    image: camo_tier5_zm_05_pattern
+-
+    name: Acidic
+    asset-name: t9_camo_zm_tier6_01
+    mode: Zombies
+    tier: Topography
+    image: camo_tier6_zm_01_pattern
+-
+    name: Gunrunner
+    asset-name: t9_camo_zm_tier6_02
+    mode: Zombies
+    tier: Topography
+    image: camo_tier6_zm_02_pattern
+-
+    name: Forecast
+    asset-name: t9_camo_zm_tier6_03
+    mode: Zombies
+    tier: Topography
+    image: camo_tier6_zm_03_pattern
+-
+    name: Cartographer
+    asset-name: t9_camo_zm_tier6_04
+    mode: Zombies
+    tier: Topography
+    image: camo_tier6_zm_04_pattern
+-
+    name: Sunder
+    asset-name: t9_camo_zm_tier6_05
+    mode: Zombies
+    tier: Topography
+    image: camo_tier6_zm_05_pattern
+-
+    name: Corrosion 1
+    asset-name: t9_camo_zm_tier7_01
+    mode: Zombies
+    tier: Infection
+    image: camo_tier7_zm_01_pattern
+-
+    name: Corrosion 2
+    asset-name: t9_camo_zm_tier7_02
+    mode: Zombies
+    tier: Infection
+    image: camo_tier7_zm_02_pattern
+-
+    name: Entropy
+    asset-name: t9_camo_zm_tier7_03
+    mode: Zombies
+    tier: Infection
+    image: camo_tier7_zm_03_pattern
+-
+    name: Glitch
+    asset-name: t9_camo_zm_tier7_04
+    mode: Zombies
+    tier: Infection
+    image: camo_tier7_zm_04_pattern
+-
+    name: Conviction
+    asset-name: t9_camo_zm_tier7_05
+    mode: Zombies
+    tier: Infection
+    image: camo_tier7_zm_05_pattern
+-
+    name: Golden Viper
+    asset-name: t9_camo_zm_meatallurgy_01
+    mode: Zombies
+    tier: Mastery
+    image: camo_mastery_zm_gold_pattern
+-
+    name: Plague Diamond
+    asset-name: t9_camo_camo_diamond
+    mode: Zombies
+    tier: Mastery
+    image: camo_mastery_zm_diamond_pattern
+-
+    name: Dark Aether
+    asset-name: t9_camo_darkmatter_zm
+    mode: Zombies
+    tier: Mastery
+    image: camo_mastery_zm_darkmatter_pattern
