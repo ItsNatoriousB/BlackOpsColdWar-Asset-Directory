@@ -35,10 +35,12 @@
                     <div class="camo-tier">{{ camo.tier }}</div>
                         <div class="camo-name">{{ camo.name }}</div>
                             <div class="camo-image">
-                    <img src="{{ site.baseurl | append: '/_photos/' }}
+                                {%- assign photo_dir = "/photos/" -%}
+                                {%- assign camo_image_pre = "/thumbs/menu_" -%}
+                                {%- assign camo_image_suff = ".png" -%}
+                    <img src="{{ site.baseurl | append: photo_dir }}
                     {{ camo.tier | downcase }}
-                    {{ camo.image | prepend: '/thumbs/menu_' | append: '.png' }}">
-                                </div>
+                    {{ camo.image | prepend: camo_image_pre | append: camo_image_suff }}">
                             </div>
                     <div class="asset-name">{{ camo.asset-name }}</div>
                     <div class="game-mode">{{ camo.mode }}</div>

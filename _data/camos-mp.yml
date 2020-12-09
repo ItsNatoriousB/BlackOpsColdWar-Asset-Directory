@@ -4,226 +4,226 @@
     asset-name: t9_camo_mp_tier1_mp_01
     mode: Multiplayer
     tier: Spray
-    image: camo_tier3_mp_01_pattern
+    image: camo_tier1_mp_01_pattern
 -
     name: Ambush
     asset-name: t9_camo_mp_tier1_mp_02
     mode: Multiplayer
     tier: Spray
-    image: camo_tier3_mp_02_pattern
+    image: camo_tier1_mp_02_pattern
 -
     name: Frozen Lake
     asset-name: t9_camo_mp_tier1_mp_03
     mode: Multiplayer
     tier: Spray
-    image: camo_tier3_mp_03_pattern
+    image: camo_tier1_mp_03_pattern
 -
     name: Debris
     asset-name: t9_camo_mp_tier1_mp_04
     mode: Multiplayer
     tier: Spray
-    image: camo_tier3_mp_04_pattern
+    image: camo_tier1_mp_04_pattern
 -
     name: Prosper
     asset-name: t9_camo_mp_tier1_mp_05
     mode: Multiplayer
     tier: Spray
-    image: camo_tier3_mp_05_pattern
+    image: camo_tier1_mp_05_pattern
 -
     name: Gravel
     asset-name: t9_camo_mp_tier2_mp_01
     mode: Multiplayer
     tier: Stripes
-    image: 
+    image: camo_tier2_mp_01_pattern
 -
     name: Graze
     asset-name: t9_camo_mp_tier2_mp_02
     mode: Multiplayer
     tier: Stripes
-    image: 
+    image: camo_tier2_mp_02_pattern
 -
     name: Frost
     asset-name: t9_camo_mp_tier2_mp_03
     mode: Multiplayer
     tier: Stripes
-    image: 
+    image: camo_tier2_mp_03_pattern
 -
     name: Thrash
     asset-name: t9_camo_mp_tier2_mp_04
     mode: Multiplayer
     tier: Stripes
-    image: 
+    image: camo_tier2_mp_04_pattern
 -
     name: Bengal
     asset-name: t9_camo_mp_tier2_mp_05
     mode: Multiplayer
     tier: Stripes
-    image: 
+    image: camo_tier2_mp_05_pattern
 -
     name: Platoon
     asset-name: t9_camo_mp_tier3_01
     mode: Multiplayer
     tier: Classic
-    image: 
+    image: camo_tier3_mp_01_pattern
 -
     name: Ash
     asset-name: t9_camo_mp_tier3_02
     mode: Multiplayer
     tier: Classic
-    image: 
+    image: camo_tier3_mp_02_pattern
 -
     name: Checkpoint
     asset-name: t9_camo_mp_tier3_03
     mode: Multiplayer
     tier: Classic
-    image: 
+    image: camo_tier3_mp_03_pattern
 -
     name: Coercion
     asset-name: t9_camo_mp_tier3_04
     mode: Multiplayer
     tier: Classic
-    image: 
+    image: camo_tier3_mp_04_pattern
 -
     name: Ransom
     asset-name: t9_camo_mp_tier3_05
     mode: Multiplayer
     tier: Classic
-    image: 
+    image: camo_tier3_mp_05_pattern
 -
     name: Blockade
     asset-name: t9_camo_mp_tier4_01
     mode: Multiplayer
     tier: Geometric
-    image: 
+    image: camo_tier4_mp_01_pattern
 -
     name: Warsaw
     asset-name: t9_camo_mp_tier4_02
     mode: Multiplayer
     tier: Geometric
-    image: 
+    image: camo_tier4_mp_02_pattern
 -
     name: Transform
     asset-name: t9_camo_mp_tier4_03
     mode: Multiplayer
     tier: Geometric
-    image: 
+    image: camo_tier4_mp_03_pattern
 -
     name: Fraction
     asset-name: t9_camo_mp_tier4_04
     mode: Multiplayer
     tier: Geometric
-    image: 
+    image: camo_tier4_mp_04_pattern
 -
     name: Bloodline
     asset-name: t9_camo_mp_tier4_05
     mode: Multiplayer
     tier: Geometric
-    image: 
+    image: camo_tier4_mp_05_pattern
 -
     name: Frith
     asset-name: t9_camo_mp_tier5_01
     mode: Multiplayer
     tier: Flora
-    image: 
+    image: camo_tier5_mp_01_pattern
 -
     name: Old Growth
     asset-name: t9_camo_mp_tier5_02
     mode: Multiplayer
     tier: Flora
-    image: 
+    image: camo_tier5_mp_02_pattern
 -
     name: Nectar
     asset-name: t9_camo_mp_tier5_03
     mode: Multiplayer
     tier: Flora
-    image: 
+    image: camo_tier5_mp_03_pattern
 -
     name: Lumber
     asset-name: t9_camo_mp_tier5_04
     mode: Multiplayer
     tier: Flora
-    image: 
+    image: camo_tier5_mp_04_pattern
 -
     name: Cherry Blossom
     asset-name: t9_camo_mp_tier5_05
     mode: Multiplayer
     tier: Flora
-    image: 
+    image: camo_tier5_mp_05_pattern
 -
     name: Teleport
     asset-name: t9_camo_mp_tier6_01
     mode: Multiplayer
     tier: Science
-    image: 
+    image: camo_tier6_mp_01_pattern
 -
     name: Comonaut
     asset-name: t9_camo_mp_tier6_02
     mode: Multiplayer
     tier: Science
-    image: 
+    image: camo_tier6_mp_02_pattern
 -
     name: Deicpher
     asset-name: t9_camo_mp_tier6_03
     mode: Multiplayer
     tier: Science
-    image: 
+    image: camo_tier6_mp_03_pattern
 -
     name: Integer
     asset-name: t9_camo_mp_tier6_04
     mode: Multiplayer
     tier: Science
-    image: 
+    image: camo_tier6_mp_04_pattern
 -
     name: Policia
     asset-name: t9_camo_mp_tier6_05
     mode: Multiplayer
     tier: Science
-    image: 
+    image: camo_tier6_mp_05_pattern
 -
     name: Groovy
     asset-name: t9_camo_mp_tier7_01
     mode: Multiplayer
     tier: Psychedelic
-    image: 
+    image: camo_tier7_mp_01_pattern
 -
     name: Seducer
     asset-name: t9_camo_mp_tier7_02
     mode: Multiplayer
     tier: Psychedelic
-    image: 
+    image: camo_tier7_mp_02_pattern
 -
     name: Blush
     asset-name: t9_camo_mp_tier7_03
     mode: Multiplayer
     tier: Psychedelic
-    image: 
+    image: camo_tier7_mp_03_pattern
 -
     name: Melancholy
     asset-name: t9_camo_mp_tier7_04
     mode: Multiplayer
     tier: Psychedelic
-    image: 
+    image: camo_tier7_mp_04_pattern
 -
     name: Bliss
     asset-name: t9_camo_mp_tier7_05
     mode: Multiplayer
     tier: Psychedelic
-    image: 
+    image: camo_tier7_mp_05_pattern
 -
     name: Gold
     asset-name: t9_camo_mp_meatallurgy_01
     mode: Multiplayer
     tier: Mastery
-    image: 
+    image: camo_tier7_mp_01_pattern
 -
     name: Diamond
     asset-name: t9_camo_camo_diamond
     mode: Multiplayer
     tier: Mastery
-    image: 
+    image: camo_tier7_mp_01_pattern
 -
     name: Dark Matter
     asset-name: t9_camo_darkmatter_mp
     mode: Multiplayer
     tier: Mastery
-    image: 
+    image: camo_tier7_mp_01_pattern
