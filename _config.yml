@@ -26,6 +26,7 @@ defaults:
       path: "assets/img"
     values:
       image: true     
+      
 # Site Settings
 name: BOCW Asset Directory
 title: BOCW Asset Directory | A site to help locating game assets
@@ -67,7 +68,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "/bocw-asset-directory" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://itsnatoriousb.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
