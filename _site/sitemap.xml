@@ -385,7 +385,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/bocw-asset-directory/assets/data-test</loc>
+            <loc>http://localhost:4000/bocw-asset-directory/assets/testing</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-11-21</lastmod>
