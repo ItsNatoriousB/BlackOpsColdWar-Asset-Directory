@@ -35,7 +35,7 @@
                     <div class="camo-tier">{{ camo.tier }}</div>
                         <div class="camo-name">{{ camo.name }}</div>
                             <div class="camo-image">
-                {% assign photo_path = camo.tier | downcase | prepend: "_photos/" %}
+                {% assign photo_path = camo.tier | downcase | prepend: "/_photos/" %}
                 {% include image-gallery.html folder=photo_path %}
                             </div>
                     <div class="asset-name">{{ camo.asset-name }}</div>
