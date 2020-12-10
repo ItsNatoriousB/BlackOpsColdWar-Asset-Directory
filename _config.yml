@@ -16,7 +16,16 @@ defaults:
         is_post: false
         layout: default
         author: "itsnatoriousb"
-        
+  -
+    scope:
+      path: "_photos"
+    values:
+      image: true
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true     
 # Site Settings
 name: BOCW Asset Directory
 title: BOCW Asset Directory | A site to help locating game assets
