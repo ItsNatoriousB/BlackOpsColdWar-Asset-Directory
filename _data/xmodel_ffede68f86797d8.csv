@@ -187,7 +187,7 @@
 17aad0df3997da0
 17ace551e8169e1
 17b23a34acbb6bb
-17b4d4b32107a22,attach_t9_charm_happy_grenade
+17b4d4b32107a22,attach_t9_charm_happy_grenade,verified
 17cd005ce7c4ab6
 17cdc5a393225ff
 17d7c69b9788e9e
@@ -250,7 +250,7 @@
 1a55860753e1ac4
 1a5dcae8ff7aaf8
 1a629a3380812e4
-1a6631c15cc58d8
+1a6631c15cc58d8,c_t9_usa_pl_woods_trucker_viewarms
 1a6c3ea63edfc5
 1a7351621ea1906
 1a7523d6b8a936d
@@ -598,7 +598,7 @@
 2c8683b61e31119
 2ca238e8d244938,c_t9_usa_pl_cia_grit_arms
 2ca2d876a085fb6,c_t9_ger_pl_west_raider_torso
-2cb754512c6e375,attach_t9_charm_frog
+2cb754512c6e375,attach_t9_charm_frog,verfied
 2cbf2b3c964e99e
 2ce57a5233caa3c
 2cf2032c7051e7c
@@ -692,7 +692,7 @@
 30d4c19d63cb0e0
 30d5837f1abb721
 30e58f591be50e
-30f47b22d204422,c_t9_uk_pl_mi6_6_1_arms
+30f47b22d204422,c_t9_uk_pl_mi6_heist_viewarms
 30f8bd3c95fd2d
 3140a04809445f3
 3140b04809447a6
@@ -913,7 +913,7 @@
 3d19f06dde35be5
 3d1ccc9d94294da
 3d2128f74c8d9d3
-3d2bf520bb06359,c_t9_uk_pl_mi6_6_1_torso
+3d2bf520bb06359,c_t9_uk_pl_mi6_heist_torso
 3d31d48f59acfe5,c_t9_usa_pl_navyseal_head
 3d3aaf842daba53
 3d4a7e60a7b64fa
@@ -1045,7 +1045,7 @@
 43dd6b9cfb69f1c
 43e71dbf0d00c71
 43f65ca6c80a697
-43feb3df53c2e19
+43feb3df53c2e19,c_t9_usa_pl_navyseal_clown_arms
 43ff7f052d9151c
 4400dbb2c1df199
 440533a53ac660f,c_t9_usa_pl_navyseal_8_1_torso
@@ -1133,7 +1133,7 @@
 47b66b115dc39c6
 47cf5544045702c
 47d01ae9b9c9ad5
-47fefb773b4046e
+47fefb773b4046e,c_t9_usa_pl_navyseal_clown_viewlegs
 4829d0ab9f53888
 482b65789aef424
 4879217eccf9a18,c_t9_usa_pl_navyseal_head
@@ -1152,13 +1152,13 @@
 492084fae3f2fc8
 494dd55dad4abcc,c_t9_usa_pl_woods_6_1_head
 49561a666915f05
-49658befe648217,attach_t9_charm_anvil
+49658befe648217,attach_t9_charm_anvil,verified
 4976247d8ae22d
 4989606aa172cde
 4997025030565ee
 499acaaed1d15d7
 49a147e673a8644
-49c5629076d2fb8,attach_t9_charm_candy
+49c5629076d2fb8,attach_t9_charm_candy,verified
 49c6b22a68f17c1
 49cdfad8e6d06de
 49db5f4fe348c57
@@ -1209,7 +1209,7 @@
 4be8e6ea7670ae
 4c2c3d779f9cd66
 4c33d21518306d5
-4c35c61a2f7ed2b
+4c35c61a2f7ed2b,c_t9_usa_pl_navyseal_clown_lowerbody
 4c50fa66c3d78a
 4c649232e9f27a2
 4c667b5aff415ea
@@ -1360,7 +1360,7 @@
 5481a24a058ac97
 5490945ba7c8434
 5491bf07ea77d1a
-54990f0d76de3e8,c_t9_usa_pl_navyseal_8_1_head
+54990f0d76de3e8,c_t9_usa_pl_navyseal_clown_head
 549c86e9e77deca
 549f3c33555caa2
 54a30e8ae9f2dce
@@ -1370,7 +1370,7 @@
 54f018a5abec5c7
 550e3f76cb776c6
 55106feda3420df
-551691bb66ca1f1,attach_t9_charm_corn
+551691bb66ca1f1,attach_t9_charm_corn,verified
 551c4dc0d795a75
 551e3ce35686f64
 5522dc878c13237
@@ -1395,7 +1395,7 @@
 5604a82e8a88666
 5622ea7311506cf,c_t9_usa_pl_navyseal_knucklehead_arms
 563f6d01205ebee
-564f5930cae3414,c_t9_usa_pl_navyseal_9_1_head
+564f5930cae3414,c_t9_usa_pl_navyseal_dissident_head
 5650fbca6fc7def
 567a546c4317a0b
 567c380f0386e8e
@@ -1411,7 +1411,7 @@
 56e3187b6314030
 56eb4f4ea607b8d
 56fa5c317382795
-570aedc2eed5e3c
+570aedc2eed5e3c,c_t9_uk_pl_mi6_heist_viewlegs
 570c9b9771b82d4
 5710afaa3e1b5fe
 5713db29389310b,attach_t9_charm_aether_crystal
@@ -1467,7 +1467,7 @@
 5950c17f80c45c1
 59533e71f5afa5b
 596887e35757f88
-59719bee4326f20
+59719bee4326f20,c_t9_usa_pl_navyseal_dissident_viewarms
 5972b0ac2c96d98
 59753035c1442a8
 5977a9435063757
@@ -1542,7 +1542,7 @@
 5d3fd7e77ccb5d6
 5d4bd3a2c4bc756,c_t9_cub_pl_dgi_mechanic_lowerbody
 5d6be616e7eb03e
-5d85b0708c429ce,c_t9_uk_pl_mi6_6_1_head
+5d85b0708c429ce,c_t9_uk_pl_mi6_heist_head
 5d890d8f2d7be57
 5d891d8f2d7c00a
 5da593dd19b60b0
@@ -1574,7 +1574,7 @@
 5f5a53426044b82
 5f5a69965a59d26
 5f640c55536f447
-5f9f9f62cb60aa6,attach_t9_charm_falcon
+5f9f9f62cb60aa6,attach_t9_charm_falcon,verified
 5fa24d7a990f998
 5fae7a523b0b255
 5fb556a64cc4ba0
@@ -1623,7 +1623,7 @@
 61dbd49ea20f7e4
 61e70cfec7e0832
 61f10e382df46c1
-61f652f339fab7a
+61f652f339fab7a,c_t9_usa_pl_navyseal_dissident_viewlegs
 62012d1c245f741,c_t9_usa_pl_navyseal_land_lowerbody
 620ab81ff08d460
 62119a946f1e6ad
@@ -1633,7 +1633,7 @@
 6236c1ce09aa31a
 6237f3b1b0cc6ff,c_t9_cub_pl_dgi_sicario_head
 623b0ee35bcc8dc
-62461d1769d6aae,c_t9_uk_pl_mi6_4_1_arms
+62461d1769d6aae,c_t9_uk_pl_mi6_tagger_arms
 6249c65168ded43
 6255bd7dc35abe1
 62580293abec30e,c_t9_usa_pl_woods_fisherman_arms
@@ -1675,7 +1675,7 @@
 644956adabe1f80
 64536001413660c
 6457624cd6046d4
-6478fdfb648014d
+6478fdfb648014d,c_t9_usa_pl_navyseal_dissident_arms
 64a070a7b1ffdfe
 64a735aac860800
 64b060060c03ee0
@@ -1786,9 +1786,9 @@
 69e3f1f7b9785e2
 69e722f3e5783d7
 69f9c49584d9c7c
-69fb16961af329,attach_t9_charm_e_flare
+69fb16961af329,attach_t9_charm_flare,verified
 69fd3836246d35e
-6a1490d4b367782
+6a1490d4b367782,attach_t9_charm_helicopter,verified
 6a310de2fd7b47a
 6a48e9252c2ee03
 6a58cb10701f31b
@@ -2042,7 +2042,7 @@
 766152b244e3bfd
 76a064f8eaf14b7
 76a31926ee481f0
-76a801dd8bc1128,attach_t9_charm_chess_rook
+76a801dd8bc1128,attach_t9_charm_c_rook,verified
 76b37a9059ae2b7
 76bfab6690ad1fe
 76df8a228cf5b5
@@ -2095,7 +2095,7 @@
 78e964f48463dcc
 78f10c38143c22d
 78f957d1ad020e
-78fe1f83a6acb1d,c_t9_usa_pl_navyseal_8_1_torso
+78fe1f83a6acb1d,c_t9_usa_pl_navyseal_clown_torso
 79263947c8d96e9
 7927cd40832cae8
 79281d40832d367
@@ -2113,7 +2113,7 @@
 79bfebfcb71f9df
 79bffbfcb71fb92
 79c9465aa5892b3
-79cda35ebac79e6,attach_t9_charm_tombstone
+79cda35ebac79e6,attach_t9_charm_tombstone,verified
 79d04ca6873ceaf
 79e80af41f1915e
 79f4b5e3cc40bb9
@@ -2217,7 +2217,7 @@
 7f10bf2141bee84
 7f1577ed2eab93a
 7f2aa0526adbb62
-7f2e9c6e8497c11,attach_t9_charm_gas_can
+7f2e9c6e8497c11,attach_t9_charm_gas_can,verified
 7f31b13283cd0ad
 7f37cbcc02d01a3
 7f40b888568660e
@@ -2297,7 +2297,7 @@
 82bb1cdffdca6c4
 82eb26edbdec5dc
 82fb050f3f0d108
-82fdf6cdab1e6bd,attach_t9_charm_afro_pick
+82fdf6cdab1e6bd,attach_t9_charm_afro_pick,verified
 8316ae6752f12aa,c_t9_usa_pl_woods_fisherman_lowerbody
 8329e9bd5e804e0
 832b8e89d21f64e
@@ -2335,7 +2335,7 @@
 84bcbee442b5a03,attach_t9_charm_fish
 84d456f5898464e
 84d654a96bb08a5
-84d9b4fd202bfab,c_t9_uk_pl_mi6_4_1_head
+84d9b4fd202bfab,c_t9_uk_pl_mi6_tagger_head
 84dd0505df539eb
 84e00d283fc7f0
 84f368b84ed85ab
@@ -2374,7 +2374,7 @@
 86f715934c1b94a
 870047cfb998f1f
 871b3b36e5d40ef
-87279fdfb0e8a3d,attach_t9_charm_duffle_bag_money
+87279fdfb0e8a3d,attach_t9_charm_duffel,verified
 8762942d6350c79
 876a4eb8733f123
 876e29751939086
@@ -2401,7 +2401,7 @@
 885af8d3ec1c10b
 885e3e70bc259da,c_t9_usa_pl_woods_holidaywoods_viewarms
 886a60477b78de3
-8889034504afb39,attach_t9_charm_spray_paint
+8889034504afb39,attach_t9_charm_spray_can
 889b5d5ebb9af5f
 88b777b044f22df
 88bfaf8d3e61f07,c_t9_rus_pl_kgb_assassin_arms
@@ -2468,7 +2468,7 @@
 8c806f55a0cbc65
 8c86aa8c91695b6
 8c8c0e0e07ded37
-8c8fc557d9a6c67,c_t9_uk_pl_mi6_6_1_torso
+8c8fc557d9a6c67,c_t9_uk_pl_mi6_heist_torso
 8caaf3f24488960
 8cab73a651e19e6
 8cb9469aec32d0a
@@ -2488,7 +2488,7 @@
 8d43c7108f9d372
 8d4b0d90ba5645
 8d5b4d1aa9a3467
-8d5bf8a187fba03,c_t9_pl_usa_woods_2_1_torso
+8d5bf8a187fba03,c_t9_usa_pl_woods_trucker_torso
 8d5e362e6d03698
 8d62a706cf41b28
 8d6dcfdcac2150f
@@ -2509,7 +2509,7 @@
 8e3beab698dba13
 8e408160759ed8f
 8e46cd763ebe0f2
-8e4d88595cecac9,attach_t9_charm_chess_queen
+8e4d88595cecac9,attach_t9_charm_c_queen,verified
 8e5aafe5b6d9b4a
 8e6639f884914a1
 8e67dfe67bda367
@@ -2653,7 +2653,7 @@
 94b3a7c8b86f268
 94c214af8e876db
 94c328267b68835
-94cb449ab82229b,attach_t9_charm_arrowhead
+94cb449ab82229b,attach_t9_charm_arrow_head,verified
 94cc37e72746efc
 94d96432165808f
 94f98dfa42f9d2e
@@ -2720,7 +2720,7 @@
 980fb1b0176c9ee
 982a26a34356584
 983311e6ed89e88
-98385690de10383,attach_t9_charm_goldbar
+98385690de10383,attach_t9_charm_gold_bar,verified
 9841c66ef067dbc
 9844e0339e161f7
 986239eea0e2090
@@ -2737,7 +2737,7 @@
 990691679f657a5
 9906c59587ccc7f
 99079551b353e44
-992f0a19befcac6,c_t9_uk_pl_mi6_4_1_lowerbody
+992f0a19befcac6,c_t9_uk_pl_mi6_tagger_lowerbody
 9935705bdae408c,wpn_t9_eqp_grenade_decoy
 993b4f088ebf00a
 994c55c52014709
@@ -2845,7 +2845,7 @@
 9e356e97995fc75
 9e3d3d115da59bc
 9e41d5dbc786a6d
-9e4aba59593b4af
+9e4aba59593b4af,c_t9_usa_pl_navyseal_dissident_lowerbody
 9e504771c3399e,c_t9_uk_pl_mi6_snapshot_torso
 9e569d0028659c9
 9e7c55a7ddb2b94
@@ -3022,7 +3022,7 @@ a63605379eb942
 a646490b595dab1
 a64bd1160a281c3
 a654339880f06b9
-a65d98652bd85fa
+a65d98652bd85fa,c_t9_uk_pl_mi6_tagger_arms
 a67213f3e4c73d5
 a67463b0b2a6cb3
 a6978b001046195
@@ -3033,7 +3033,7 @@ a6c0bb969361152
 a6cfbe0cb5d63ac
 a6d6789333782f9
 a6e062c01cc8940
-a6e2a8407323547,attach_t9_charm_zamboni
+a6e2a8407323547,attach_t9_charm_zamboni,verified
 a70889ececd07f4
 a70c0a6192af13d
 a71ac11de76196b
@@ -3219,7 +3219,7 @@ b0cc6de3db8c3f9
 b0cda3cf70f249d
 b0e1e3f2e6ded0a
 b0eedcc679987aa
-b0f7e4fec45edd9,c_t9_usa_pl_navyseal_9_1_torso
+b0f7e4fec45edd9,c_t9_usa_pl_navyseal_dissident_torso
 b108e9669010441
 b138a6eefcd2077
 b14253b6f49cbde
@@ -3302,7 +3302,7 @@ b58567e1aa3e022
 b58e9a2165f912a
 b5a3feec7291fa3
 b5afe0a74d99639
-b5b9a49f334d5a1,attach_t9_charm_compass
+b5b9a49f334d5a1,attach_t9_charm_compass,verified
 b5bbbaba49da1b,c_t9_usa_pl_adler_gunslinger_lowerbody
 b5c16286cad6e79
 b5db1f2e2fae007,c_t9_usa_pl_woods_fisherman_head
@@ -3330,7 +3330,7 @@ b7111e95190b21
 b7164528441e7f5
 b7164ad0513a75e,c_t9_usa_pl_navyseal_sea_head
 b71ee090b44f979
-b729ea00ca9030b
+b729ea00ca9030b,c_t9_uk_pl_mi6_tagger_viewarms
 b73cb280f25aa82
 b7496a72638d2bf
 b74cda891c8932b
@@ -3382,7 +3382,7 @@ b9214b956daaa40
 b9245630134c54e
 b927fdbb69899f2
 b929efc0af281c7
-b94605e5362012f,attach_t9_charm_red_button
+b94605e5362012f,attach_t9_charm_red_button,verified
 b95587e1ad791a6
 b967b1b400fed9b
 b9772270a077cc8,c_t9_usa_pl_sims_6_1_head
@@ -3395,7 +3395,7 @@ b9c936e51a1afbd
 b9cd9080db824ef
 b9d489e8e3bcae3
 b9e281d1fa41b41
-b9f97f19e7b5df4,attach_t9_charm_rabbits_foot
+b9f97f19e7b5df4,attach_t9_charm_rabbit_foot,verified
 b9fd5d61feba934
 b9ff756bd172de6
 ba0c5d0dd302033
@@ -3447,7 +3447,7 @@ bc2cbe89db1264e
 bc2eda2f60333f5
 bc303d14c2ee279
 bc3f29b71b80d1b
-bc4b6f1d0da5113,c_t9_usa_pl_woods_2_1_arms
+bc4b6f1d0da5113,c_t9_usa_pl_woods_trucker_arms
 bc4dda056e690c2
 bc524d5ce1194d6,attach_t9_charm_boat
 bc5f6f3713fc24d
@@ -3600,13 +3600,13 @@ c3d7dac934befc6
 c3eb0c1f78567b9
 c3eedd7e0faa71c
 c407c39d0df508f
-c4165c014556974,attach_t9_charm_snowman
+c4165c014556974,attach_t9_charm_snowman,verfied
 c4262e7cc69b21d
 c42b9efade9bb98
 c43796652e2302e
 c4461be9d92233b
 c44bc622fbef27a,c_t9_ger_pl_west_bomber_torso
-c475d4f50c36e9f
+c475d4f50c36e9f,c_t9_uk_pl_mi6_heist_arms
 c48539f29c9e899
 c488537a846bdf9
 c48f14563bdf586
@@ -3697,7 +3697,7 @@ c8fa150051a4273
 c903dfa73678c52
 c912fd32bcb6e68
 c923a5c13f5ed8f
-c93297e15cb5b4c,c_t9_uk_pl_mi6_4_1_torso
+c93297e15cb5b4c,c_t9_uk_pl_mi6_tagger_torso
 c935ce2cf4f8a9a
 c936e15bcdf935a
 c939a10f5b5203c
@@ -3809,7 +3809,7 @@ ce4a238c84e425b
 ce52ea3bea62133
 ce5503af6713237
 ce58169cfffb4b9,c_t9_cub_pl_dgi_barrio_torso
-ce62a73d8a6aa9b,attach_t9_charm_crocodile
+ce62a73d8a6aa9b,attach_t9_charm_croc_head,verified
 ce7c5f262b750a3
 ce88f82d8858951
 ce8d7aa5f8bde55
@@ -4029,7 +4029,7 @@ da2240d9d1569ab
 da264ef91ba6c59
 da34b121712c199
 da5c41d8b7a7036
-da5e4a4c522fb6a,c_t9_usa_pl_woods_2_1_head
+da5e4a4c522fb6a,c_t9_usa_pl_woods_trucker_head
 da8828ab04e071f
 da8da40e8226d98
 da96a8a934ac77
@@ -4207,23 +4207,23 @@ e3eb727e55e7542
 e3ec939f5bf15fd
 e3f18bc92591e57
 e3f2a2f0d2d3642
-e3ffe7d0017fd,c_t9_uk_pl_mi6_4_1_lowerbody
+e3ffe7d0017fd,c_t9_uk_pl_mi6_tagger_viewlegs
 e42cc19bc0a3bf8
 e43aecfc864a78a
 e44af980e81a5b3
 e44bcf98ba7060a
 e46af792c21a0e0
 e48b2ef7d179316
-e4a80d37f073ecd,attach_t9_charm_ice_axe
+e4a80d37f073ecd,attach_t9_charm_ice_axe,verified
 e4bc4d8cd44daa7
 e4d1bb8ef5a62fe
 e4df23559e5a0cd
 e4fea016fd09bfe
 e5077becb97629e
-e5080ec4ee50e80,attach_t9_charm_skull_circuitboad
+e5080ec4ee50e80,attach_t9_charm_skull_circuit,verified
 e51402d78fbaf76
 e52dc30b1652e4c
-e52f05273ff17dd
+e52f05273ff17dd,c_t9_usa_pl_woods_trucker_lowerbody
 e5343853ea49735,c_t9_usa_pl_hunter_lowerbody
 e537bacba818672
 e5493ccfb20db2d,c_t9_usa_pl_woods_2_1_arms
@@ -4314,7 +4314,7 @@ ea0168b27f03d8b
 ea108a0c0ac5fa4
 ea1b457e630a204
 ea2a5d8053e1050
-ea43bd979bc68b,attach_t9_charm_pitchfork
+ea43bd979bc68b,attach_t9_charm_pitchfork,verified
 ea440dadc224dd9
 ea6c28ccf2488aa,c_t9_usa_pl_adler_miami_torso
 ea7cb1cae09eae6
@@ -4346,7 +4346,7 @@ eb813af20921865
 eb8a3b065f85d33
 eb8a85f4848145d
 eb8ac3421078118
-eb96ea70cfb35e,attach_t9_charm_scorpion
+eb96ea70cfb35e,attach_t9_charm_scorpion,verified
 ebaed943063a238
 ebbea481a3db191
 ebeae845f9e324f
@@ -4362,7 +4362,7 @@ ec6dfd62ce4f88b
 ec7aec355c20013
 ec7b96facf6697e,c_t9_orange_lowerbody
 ec8a74a315b7d5b
-ec8ed10e9f54a44
+ec8ed10e9f54a44,c_t9_usa_pl_navyseal_clown_viewarms
 ec9d57ee9d4a1ed
 ec9df5b0fa7cc06
 ec9fa4dd79ee25f
@@ -4466,7 +4466,7 @@ f1e90102278cfd9
 f1f1e77ac3ab32
 f21c5357afa829b
 f23314556c93475
-f2656a119440acf,attach_t9_charm_surfboard
+f2656a119440acf,attach_t9_charm_boogie_board
 f28b910c9d1fd0c
 f2c0f538749546d
 f2e2da60a0efd7c
@@ -4481,7 +4481,7 @@ f33c8bea1c9cd46
 f35b92d5d48e411,c_t9_ger_pl_west_raider_head
 f35b92d5d48e411,c_t9_ger_pl_west_raider_head
 f3600cecc75ad17
-f36d4344fed433e
+f36d4344fed433e,c_t9_usa_pl_woods_trucker_viewarms
 f376a6fee796e5f,c_t9_rus_pl_kgb_winter_torso
 f376a6fee796e5f,c_t9_rus_pl_kgb_winter_torso
 f382344c0ae350f,c_t9_usa_pl_adler_gunslinger_torso
@@ -4537,7 +4537,7 @@ f6a1cea9585ae1b
 f6c1ce27038c0e3
 f6d093d69a8927d
 f6e82b70affcb6f
-f6ea20e70445963,attach_t9_charm_spoon
+f6ea20e70445963,attach_t9_charm_silverspoon,verified
 f6f86d50c803702
 f716a9f37a2c58f
 f7590337a5b0ed3
@@ -4618,7 +4618,7 @@ fb17e7467441326
 fb1da0f24ab30d2
 fb25ce5561ce49a
 fb3d2cfe7f6cf8c
-fb3e2e244552fef,attach_t9_charm_ammo_box
+fb3e2e244552fef,attach_t9_charm_ammo_box,verified
 fb54c9064332d11
 fb69971b6f39eb2
 fb77da40bdf359d
