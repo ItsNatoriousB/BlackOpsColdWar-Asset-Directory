@@ -119,7 +119,7 @@
 1c76662a78e1b1c
 1ca5f088416c7c5
 1cac7f91071d57b
-1cc3ef26e4e67e7
+1cc3ef26e4e67e7,wpn_t9_zm_wand_aether_shround_view,verified
 1ce5a37a7325ffc
 1cfa5815c66fe5f
 1d0a94a39157e34
@@ -379,7 +379,7 @@
 2b68a996ad6c792
 2b6fbff8b7e421e
 2b743ea64d6090
-2bb17b8c266e4b7
+2bb17b8c266e4b7,wpn_t9_zm_wand_frost_blast_view,verified
 2c03c1e56197b8
 2c0a78a11066a30
 2c148d6ae0b0520
@@ -1665,7 +1665,7 @@
 7597a27a70d3b4c
 75a3bafa0e20aed
 75a74b02f94985b
-75ad8f39b6adc56
+75ad8f39b6adc56,wpn_t9_zm_wand_closed_ring_fire_prop,verified
 75b99adfce54846
 75bfac2f6ce0021
 75d23d08d666a70
@@ -1851,7 +1851,7 @@
 7f2aa0526adbb62
 7f31b13283cd0ad
 7f37cbcc02d01a3
-7f40b888568660e
+
 7f40f1063ca457a
 7f590c9e24428ee
 7f5a2cfc1e9dfc5
@@ -2624,7 +2624,7 @@ ab805eca0cc1545
 ab89ea88228c628
 ab8c75fbecdaadb
 ab945acf99aa619
-ab98db620713b2
+ab98db620713b2,wpn_t9_bp_ar_damage_tagger_view,verified
 aba1c91b33be6dc
 abb84fd8b98c2a5
 abd8036e290c020
@@ -2733,7 +2733,7 @@ b1d8971651836d
 b1ee472eec7f58a
 b1f35fff9dd21b9
 b203cdcc72a2123
-b22904ee8127fde
+b22904ee8127fde,wpn_t9_ar_mercenary_mrfix_view,verified
 b22b6b1151bb00f
 b22e5e21fd6b595
 b2399b3eae7389d
@@ -2910,7 +2910,7 @@ bbff4c98907fa22
 bbff5c98907fbd5
 bc1397ee16424e5
 bc15e3e2e9ad1c4
-bc28a1670633e01
+bc28a1670633e01,wpn_t9_ar_mercenary_mrfix_world,verified
 bc2cbe89db1264e
 bc2eda2f60333f5
 bc303d14c2ee279
@@ -2994,7 +2994,7 @@ c0ceee8552f7d69
 c0d3551eb75e73b
 c0e3b4edfdaf690
 c0ec170f32654c3
-c1114445fdf7c9c
+c1114445fdf7c9c,c_t9_usa_pl_cia_logger_arms,verified
 c111482d286a7a
 c148b46ad5017a
 c15971a1040a7c5
@@ -3237,7 +3237,7 @@ cea21071a1c4e27
 cea25c992b556a5
 cea27eaea1cb6a4
 cea54377b2bba81
-ceb8e7c0f1da187
+ceb8e7c0f1da187,wpn_t9_zm_wand_ring_fire_view,verified
 cecae288226c6cd
 cece2ac05392bb5
 cedb773a9306cad
@@ -3334,7 +3334,7 @@ d4e424aa76ea611
 d4e957d1fb458b
 d4eba4a7569af6c
 d4ebc7a33d5a3b7
-d50cbf1b29ddb96
+d50cbf1b29ddb96,wpn_t9_zm_wand_frost_blast_view,verified
 d52b43c76f92024
 d53611ec190b34
 d5367e432692253
@@ -3618,7 +3618,7 @@ e64e6104a1d9e17
 e65586096a1e52e
 e65b090ec634809
 e660bb47e91a136
-e66d1d4410e95ae
+e66d1d4410e95ae,wpn_t9_zm_wand_healing_aura_view,verified
 e675fea1fcea011
 e6997c847f68153
 e6c8d67812f2dee
@@ -3964,7 +3964,7 @@ fdf77689affb3ee
 fe553da1ce8772a
 fe622903c321670
 fe6598e9ba8e96b
-fe6fc39ba07a9fa
+fe6fc39ba07a9fa,wpn_t9_zm_wand_ring_fire_world,verified
 fe7434af0625544
 fe75eeb9eac5a79
 fe806c268d34b14

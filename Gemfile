@@ -8,3 +8,4 @@ gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
 gem "jekyll-spaceship"
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
