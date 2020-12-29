@@ -80,6 +80,10 @@
     Asset Name: wpn_t9_smg_burst
     Class: SMG
 -
+    Gun Name: Mac-10
+    Asset Name: wpn_t9_smgfastfire
+    Class: SMG
+-
     Gun Name: Milano 821
     Asset Name: wpn_t9_handling_beta
     Class: SMG
