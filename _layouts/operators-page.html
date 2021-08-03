@@ -1,16 +1,11 @@
 ---
-layout: page
+layout: default
 ---
-<!DOCTYPE html>
-<html lang="{{ site.language }}" class="no-js">
-    {% include head.html %}
-    <body class="has-push-menu">
-        {% include svg-icons.html %}
-        {% include header.html %}
-            <section class="content">
-                {{ content }}
-                {% include image-gallery.html folder="/assets/img/operator-icons" %}
-            </section>
-        {% include footer.html %}
-    </body>
-</html>
+<div class="post">
+
+  <article class="post-content fullwidth">
+    {{ content }}
+    {% include image-gallery.html folder="/assets/img/operator-icons" %}
+  </article>
+
+</div>
