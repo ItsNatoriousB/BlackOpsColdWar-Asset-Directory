@@ -9,4 +9,4 @@ description: Some description.
 
 # Operators
 
-Placeholder page for all weapons
+Page for all operators
