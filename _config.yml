@@ -49,6 +49,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Operators
+    url: /operators
   - title: Tutorials
     url: /tutorials
   - title: Weapons
