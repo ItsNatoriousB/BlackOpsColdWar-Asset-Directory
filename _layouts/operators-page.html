@@ -1,4 +1,12 @@
 ---
 layout: default
 ---
-{{ content }}{% if page.galleries %}{% include image-gallery.html folder="/assets/img/operators" %}{% endif %}
+<div class="post">
+
+  <article class="post-content fullwidth">
+    {{ content }}
+    {% if page.galleries %}{% include image-gallery.html folder="/assets/img/operators" %}{% endif %}
+  </article>
+
+</div>
+
