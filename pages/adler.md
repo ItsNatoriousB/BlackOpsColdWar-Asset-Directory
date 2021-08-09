@@ -9,4 +9,4 @@ description: Some description.
 
 # Adler
 
-Page for Adler SKins
+Base Asset Name: c_t9_usa_pl_adler
