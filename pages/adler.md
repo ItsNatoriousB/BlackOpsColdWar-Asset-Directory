@@ -1,5 +1,5 @@
 ---
-layout: operator-page
+layout: operator-adler
 menu: true
 date: '2021-08-09 01:53:59'
 title: Adler
@@ -9,4 +9,4 @@ description: Some description.
 
 # Adler
 
-Page for all operators
+Page for Adler SKins
