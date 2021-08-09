@@ -93,7 +93,7 @@ paginate_content:
   enabled: true
   debug: false
   collections:
-    - posts
+    - pages
   auto: true
   separator: "--page-break--"
   permalink: "/:num/"
