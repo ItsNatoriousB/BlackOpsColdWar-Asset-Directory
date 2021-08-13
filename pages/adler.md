@@ -3,7 +3,7 @@ layout: operator-adler
 menu: true
 date: '2021-08-09 01:53:59'
 title: Adler
-permalink: /adler/
+permalink: /operators/adler/
 description: Some description.
 ---
 
