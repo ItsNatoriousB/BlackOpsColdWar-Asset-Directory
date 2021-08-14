@@ -3,7 +3,7 @@ layout: operator-baker
 menu: true
 date: '2021-08-09 01:53:59'
 title: Baker
-permalink: /baker/
+permalink: /operators/baker/
 description: Some description.
 ---
 
