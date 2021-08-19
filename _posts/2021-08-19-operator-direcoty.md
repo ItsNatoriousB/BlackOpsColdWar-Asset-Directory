@@ -29,14 +29,4 @@ game: "Call of Duty: Black Ops Cold War (2020)"
 type: custom_content
 ---
 
-  <!-- Testing Code -->
-{% for camo in site.data.camos-mp %}
-  {{ camo | inspect }} => ["layout", "data_test"]
-{% endfor %}
-  <!-- Loop Start -->
-
-  <!-- Camo Name Start-->
-
-  <!-- Camo Name End -->
-
-  <!-- Loop End -->
+# Directory
