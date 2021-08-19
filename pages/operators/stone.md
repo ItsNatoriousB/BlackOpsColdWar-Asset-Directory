@@ -9,4 +9,4 @@ description: Some description.
 
 # Stone
 
-Base Asset Name: c_t9_gen_pl_starter3
+Base Asset Name: c_t9_gen_pl_starter3_stone
