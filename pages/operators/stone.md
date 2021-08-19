@@ -3,7 +3,7 @@ layout: operator-stone
 menu: true
 date: '2021-08-09 01:53:59'
 title: Stone
-permalink: /stone/
+permalink: /operators/stone/
 description: Some description.
 ---
 
