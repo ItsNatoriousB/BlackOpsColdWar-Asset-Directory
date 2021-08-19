@@ -3,7 +3,7 @@ layout: operator-weaver
 menu: true
 date: '2021-08-11 01:53:59'
 title: Weaver
-permalink: /weaver/
+permalink: /operators/weaver/
 description: Some description.
 ---
 

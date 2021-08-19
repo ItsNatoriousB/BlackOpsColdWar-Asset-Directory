@@ -3,7 +3,7 @@ layout: operator-jackal
 menu: true
 date: '2021-08-11 01:53:59'
 title: Jackal
-permalink: /jackal/
+permalink: /operators/jackal/
 description: Some description.
 ---
 

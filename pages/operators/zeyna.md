@@ -3,7 +3,7 @@ layout: operator-zeyna
 menu: true
 date: '2021-08-11 01:53:59'
 title: Zeyna
-permalink: /zeyna/
+permalink: /operators/zeyna/
 description: Some description.
 ---
 

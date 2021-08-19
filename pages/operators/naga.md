@@ -3,7 +3,7 @@ layout: operator-naga
 menu: true
 date: '2021-08-09 01:53:59'
 title: Naga
-permalink: /naga/
+permalink: /operators/naga/
 description: Some description.
 ---
 

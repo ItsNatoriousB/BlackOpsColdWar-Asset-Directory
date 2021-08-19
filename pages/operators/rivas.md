@@ -3,7 +3,7 @@ layout: operator-rivas
 menu: true
 date: '2021-08-11 01:53:59'
 title: Rivas
-permalink: /rivas/
+permalink: /operators/rivas/
 description: Some description.
 ---
 

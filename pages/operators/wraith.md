@@ -3,7 +3,7 @@ layout: operator-wraith
 menu: true
 date: '2021-08-11 01:53:59'
 title: Wraith
-permalink: /wraith/
+permalink: /operators/wraith/
 description: Some description.
 ---
 
