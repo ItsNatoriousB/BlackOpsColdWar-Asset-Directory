@@ -3,12 +3,12 @@ layout: default
 ---
 <div class="post">
 <!-- The second value will be selected initially -->
-<select name="choice">
+  <article class="post-content fullwidth">
+    <select name="choice">
   <option value="first">First Value</option>
   <option value="second" selected>Second Value</option>
   <option value="third">Third Value</option>
 </select>
-  <article class="post-content fullwidth">
     {% include breadcrumbs.html %}
     {{ content }}
     {% include operator-image-gallery.html folder="/assets/img/operators/{{ page.title | downcase }}" %}
