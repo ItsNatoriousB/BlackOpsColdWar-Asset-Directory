@@ -9,8 +9,8 @@ layout: default
   <option value="third">Third Value</option>
 </select>
   <article class="post-content fullwidth">
+    {% include breadcrumbs.html %}
     {{ content }}
     {% include operator-image-gallery.html folder="/assets/img/operators/{{ page.title | downcase }}" %}
   </article>
-
 </div>

@@ -3,7 +3,7 @@ layout: operator-price
 menu: true
 date: '2021-08-11 01:53:59'
 title: Price
-permalink: /price/
+permalink: /operators/price/
 description: Some description.
 ---
 
