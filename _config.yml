@@ -41,7 +41,7 @@ tags:
   - call of duty mapping
 email: itsnatoriousb@gmail.com
 disqus_username: natoriousb
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -94,6 +94,7 @@ paginate_content:
   debug: false
   collections:
     - posts
+    - pages
   auto: true
   separator: "--page-break--"
   permalink: "/:num/"
