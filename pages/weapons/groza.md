@@ -1,5 +1,5 @@
 ---
-layout: ar-groza
+layout: weapon-ar-groza
 menu: true
 date: '2021-08-09 01:53:59'
 title: Groza
