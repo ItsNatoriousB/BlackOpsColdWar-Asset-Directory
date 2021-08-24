@@ -2,15 +2,10 @@
 layout: default
 ---
 <div class="post">
-<!-- The second value will be selected initially -->
+
   <article class="post-content fullwidth">
-    <select name="choice">
-  <option value="first">First Value</option>
-  <option value="second" selected>Second Value</option>
-  <option value="third">Third Value</option>
-</select>
-    {% include breadcrumbs.html %}
     {{ content }}
-    {% include weapon-image-gallery.html folder="/assets/img/weapons/{{ page.title | downcase }}" %}
+    {% include weapon-image-gallery.html folder="/assets/img/weapon-icons" %}
   </article>
+
 </div>
