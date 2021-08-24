@@ -1,19 +1,16 @@
 ---
 layout: default
 ---
-<article class="post-content fullwidth">
-	<div class="weapon-page">
-    	<div class="weapon-kit">
-			<h2 class="weapons-kit_header">Blueprints</h2>
-				<div class="weapon-kits">
-					<div class="weapon-card">
-						<img src="#">
-			<div class="rarity-wrapper"><img src="#"></div>
-			<div class="weapon-name">Weapon Name</div>
-			<div class="weapon-rarity">Weapon Rarity</div>
-			</div>
-			</div>
-
-		</div>{{ content }}{% if page.galleries %}{% include image-gallery.html %}{% endif %}
-	</div>
-</article>
+<div class="post">
+<!-- The second value will be selected initially -->
+  <article class="post-content fullwidth">
+    <select name="choice">
+  <option value="first">First Value</option>
+  <option value="second" selected>Second Value</option>
+  <option value="third">Third Value</option>
+</select>
+    {% include breadcrumbs.html %}
+    {{ content }}
+    {% include weapon-image-gallery.html folder="/assets/img/weapons/{{ page.title | downcase }}" %}
+  </article>
+</div>
