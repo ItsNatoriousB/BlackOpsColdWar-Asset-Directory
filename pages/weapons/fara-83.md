@@ -9,4 +9,4 @@ description: Some description.
 
 # FARA 83
 
-Base Asset Name: wpn_t9_ar_slowfire
+Base Asset Name: wpn_t9_ar_slowhandling
