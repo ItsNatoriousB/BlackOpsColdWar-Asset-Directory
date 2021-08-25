@@ -1,12 +1,12 @@
 ---
-layout: weapon-smg-ak74u
+layout: weapon-smg-tec9
 menu: true
 date: '2021-08-09 01:53:59'
-title: AK-74u
-permalink: /weapons/ak-74u/
+title: TEC-9
+permalink: /weapons/tec-9/
 description: Some description.
 ---
 
-# AK-74u
+# TEC 9
 
-Base Asset Name: wpn_t9_smg_heavy
+Base Asset Name: wpn_t9_loot_smg_semiauto
