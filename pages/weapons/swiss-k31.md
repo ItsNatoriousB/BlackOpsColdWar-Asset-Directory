@@ -9,4 +9,4 @@ description: Some description.
 
 # Swiss K31
 
-Base Asset Name: wpn_t9_sniper_
+Base Asset Name: wpn_t9_sniper_accurate
