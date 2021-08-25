@@ -1,12 +1,12 @@
 ---
-layout: weapon-ar-c58
+layout: weapon-ar-ffar
 menu: true
 date: '2021-08-09 01:53:59'
-title: C58
-permalink: /weapons/C58/
+title: FFAR1
+permalink: /weapons/ffar/
 description: Some description.
 ---
 
-# C58
+# FFAR1
 
 Base Asset Name: wpn_t9_ar_slowfire
