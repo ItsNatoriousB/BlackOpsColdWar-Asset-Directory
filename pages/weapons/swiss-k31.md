@@ -2,8 +2,8 @@
 layout: weapon-sniper-swiss
 menu: true
 date: '2021-08-09 01:53:59'
-title: C58
-permalink: /weapons/swiss/
+title: Swiss-K31
+permalink: /weapons/swiss-k31/
 description: Some description.
 ---
 
