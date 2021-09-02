@@ -3,7 +3,7 @@ layout: weapon-melee-ballistic
 menu: true
 date: '2021-09-02 01:53:59'
 title: Ballistic Knife
-permalink: /weapons/ballistic-knife/
+permalink: /weapons/ballistic_knife/
 description: Some description.
 ---
 
