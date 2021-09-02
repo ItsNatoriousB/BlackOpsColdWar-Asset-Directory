@@ -1,12 +1,12 @@
 ---
-layout: weapon-ar-c58
+layout: weapon-ar-qbz83
 menu: true
 date: '2021-08-09 01:53:59'
-title: C58
-permalink: /weapons/C58/
+title: QBZ-83
+permalink: /weapons/qbz-83/
 description: Some description.
 ---
 
-# C58
+# QBZ-83
 
-Base Asset Name: wpn_t9_ar_slowfire
+Base Asset Name: wpn_t9_ar_mobility
