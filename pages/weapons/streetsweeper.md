@@ -1,12 +1,12 @@
 ---
-layout: weapon-shotgun-hauer
+layout: weapon-shotgun-streetsweeper
 menu: true
 date: '2021-09-02 01:53:59'
-title: Hauer 77
-permalink: /weapons/hauer/
+title: Streetsweeper
+permalink: /weapons/streetsweeper/
 description: Some description.
 ---
 
-# Hauer 77
+# Streetsweeper
 
-Base Asset Name: wpn_t9_shotgun_pump
+Base Asset Name: wpn_t9_loot_shotgun_fullauto
