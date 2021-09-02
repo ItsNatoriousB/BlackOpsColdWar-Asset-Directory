@@ -1,7 +1,7 @@
 ---
 layout: weapon-smg-ak74u
 menu: true
-date: '2021-08-09 01:53:59'
+date: '2021-09-02 01:53:59'
 title: AK-74u
 permalink: /weapons/ak-74u/
 description: Some description.

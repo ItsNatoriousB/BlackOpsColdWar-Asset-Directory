@@ -1,7 +1,7 @@
 ---
-layout: weapon-ar-xmt
+layout: weapon-ar-xm4
 menu: true
-date: '2021-08-09 01:53:59'
+date: '2021-09-02 01:53:59'
 title: XM4
 permalink: /weapons/xm4/
 description: Some description.
@@ -9,4 +9,4 @@ description: Some description.
 
 # XM4
 
-Base Asset Name: wpn_t9_ar_slowfire
+Base Asset Name: wpn_t9_ar_mercenary (previously ar_standard)
