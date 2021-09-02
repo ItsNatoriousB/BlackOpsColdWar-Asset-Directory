@@ -9,4 +9,4 @@ description: Some description.
 
 # FFAR1
 
-Base Asset Name: wpn_t9_ar_slowfire
+Base Asset Name: wpn_t9_ar_fastfire
