@@ -1,12 +1,12 @@
 ---
-layout: weapon-melee-shovel
+layout: weapon-melee-wakizashi
 menu: true
 date: '2021-09-02 01:53:59'
-title: OTs9
-permalink: /weapons/shovel/
+title: Wakizashi
+permalink: /weapons/wakizashi/
 description: Some description.
 ---
 
-# E-Tool
+# Wakizashi
 
-Base Asset Name: wpn_t9_melee_shovel
+Base Asset Name: wpn_t9_melee_wakizashi
