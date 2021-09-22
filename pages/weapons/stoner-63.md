@@ -3,7 +3,7 @@ layout: weapon-lmg-stoner63
 menu: true
 date: '2021-08-09 01:53:59'
 title: Stoner 63
-permalink: /weapons/stoner-63/
+permalink: /weapons/stoner63/
 description: Some description.
 ---
 
