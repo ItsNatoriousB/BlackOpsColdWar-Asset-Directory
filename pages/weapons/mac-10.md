@@ -9,4 +9,4 @@ description: Some description.
 
 # MAC-10
 
-Base Asset Name: wpn_t9_smg_handling
+Base Asset Name: wpn_t9_smg_fastfire
