@@ -7,6 +7,6 @@ permalink: /weapons/ppsh-41/
 description: Some description.
 ---
 
-# Ppsh-41
+# PPsh-41
 
-Base Asset Name: wpn_t9_ar_slowfire
+Base Asset Name: wpn_t9_smg_spray
