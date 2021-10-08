@@ -7,6 +7,6 @@ permalink: /operators/portnova/
 description: Some description.
 ---
 
-# Adler
+# Portnova
 
 Base Asset Name: c_t9_rus_pl_kgb
