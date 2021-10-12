@@ -2,7 +2,7 @@
 layout: weapon-ar-grav
 menu: true
 date: '2021-10-08 01:53:59'
-title: FFAR1
+title: Grav
 permalink: /weapons/grav/
 description: Some description.
 ---
