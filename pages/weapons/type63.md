@@ -2,7 +2,7 @@
 layout: weapon-tr-type63
 menu: true
 date: '2021-08-09 01:53:59'
-title: C58
+title: Typ-63
 permalink: /weapons/type63/
 description: Some description.
 ---
