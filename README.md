@@ -1,7 +1,5 @@
 # Black Ops: Cold War Asset Directory
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
-
 ## What is it?
 
 A directory that helps with finding assets.
