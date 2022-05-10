@@ -9,4 +9,4 @@ description: Some description.
 
 # CDL
 
-Base Asset Name: c_t9_ger_pl_maxis
+Base Asset Name: c_t9_gen_pl_esports
