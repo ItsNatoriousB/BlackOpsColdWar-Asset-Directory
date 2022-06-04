@@ -1,0 +1,12 @@
+---
+layout: weapon-ar-ak47
+menu: true
+date: '2021-08-09 01:53:59'
+title: AK47
+permalink: /weapons/ak-47/
+description: Some description.
+---
+
+# AK-47
+
+Base Asset Name: wpn_t9_ar_damage
