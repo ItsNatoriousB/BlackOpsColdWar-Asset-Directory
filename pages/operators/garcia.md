@@ -9,4 +9,4 @@ description: Some description.
 
 # Garcia
 
-Base Asset Name: c_t9_gen_pl_starter2
+Base Asset Name: c_t9_cub_pl_dgi
