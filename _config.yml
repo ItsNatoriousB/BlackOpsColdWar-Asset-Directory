@@ -69,7 +69,7 @@ show_modal_on_finish_post: false
 two_columns_layout: true
 
 # Advanced Settings
-baseurl: "/bocw-asset-directory" # the subpath of your site, e.g. /blog
+baseurl: "/BlackOpsColdWar-Asset-Directory" # the subpath of your site, e.g. /blog
 url: "https://itsnatoriousb.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
