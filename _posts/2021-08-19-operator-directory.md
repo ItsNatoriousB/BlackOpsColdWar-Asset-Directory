@@ -31,4 +31,4 @@ type: custom_content
 
 # Directory
 
-https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/operators/
+<a href="https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/operators/">Operators</a>
