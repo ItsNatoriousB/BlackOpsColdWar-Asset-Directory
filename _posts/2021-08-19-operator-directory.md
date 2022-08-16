@@ -30,3 +30,5 @@ type: custom_content
 ---
 
 # Directory
+
+https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/operators/
