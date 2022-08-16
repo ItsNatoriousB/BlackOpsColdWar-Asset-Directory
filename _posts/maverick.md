@@ -1,8 +1,8 @@
 ---
-date: 2021-08-19 08:08:00
+date: 2022-08-16 08:08:00
 layout: post
-title: Operator Directory
-subtitle: "Operator Directory"
+title: Mac-10
+subtitle: "Maverick"
 description: >-
   "Testing for all lists"
 image: >-
@@ -11,10 +11,10 @@ optimized_image: >-
   https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
 featured_image: >-
   https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
-category: assets
+category: SMG
 tags:
-  - operators
-  - names
+  - Weapons
+  - Names
 author: itsnatorioub
 paginate: true
 credits:
