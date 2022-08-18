@@ -4,11 +4,9 @@
 
 A directory that helps with finding assets.
 
-## Weapons
-https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/weapons/
+## [Weapons](https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/weapons/)
 
-## Operators
-https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/operators/
+## [Operators](https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/operators/)
 
 ## Feedback, Questions or Suggestions ?
 Please, don't hesitate to create an issue.
